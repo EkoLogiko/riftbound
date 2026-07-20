@@ -1,0 +1,2 @@
+Reminder text appears in italics and parentheses. Its purpose is to summarize relevant rules, including [[Keyword]]s and other rules.
+The presence, absence, or exact wording of reminder text has no effect on game function.

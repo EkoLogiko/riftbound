@@ -1,0 +1,1 @@
+For gameplay purposes, a card's [[Owner]] is the player who brought it into the game, either as their [[Champion Legend]], one of their [[Battlefield]]s, as part of their [[Main Deck]] or [[Rune Deck]], or [[Created]] during the process of play. The legal owner of a card doesn't matter during gameplay.

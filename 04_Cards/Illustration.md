@@ -1,0 +1,1 @@
+Each card has an illustration. It conveys no gameplay information.

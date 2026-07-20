@@ -1,0 +1,1 @@
+Flavor text is text that appears at the bottom of some cards to provide aesthetic enjoyment. It conveys no gameplay information. It is located at the bottom of the section provided for rules text, usually in a shaded bar. It appears in italics.

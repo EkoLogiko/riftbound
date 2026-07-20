@@ -1,0 +1,1 @@
+The **First Player** is the player who becomes the [[Turn Player]] first.

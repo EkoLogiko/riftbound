@@ -1,0 +1,4 @@
+- [[Base]]s
+- [[Battlefield Zone]]s
+- [[Facedown Zone]]s
+- [[Legend Zone]]

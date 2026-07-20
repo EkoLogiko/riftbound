@@ -1,0 +1,2 @@
+Executed during [[Setup Process]].
+A player may choose up to two cards in their hand. They set those cards aside. Then, that player draws as many cards as they set aside. Finally, that player [[Recycle]]s the cards that were set aside.

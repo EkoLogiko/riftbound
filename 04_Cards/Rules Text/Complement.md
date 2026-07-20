@@ -1,0 +1,5 @@
+The complement of a [[Game Action]] is made up of the players or [[Game Object]]s that perform that game action, that that game action is performed on, the condition under which it is performed, and the duration for its effect to last. Some game actions omit a complement entirely.
+
+>*Example:* Void Seeker is made up of two instructions. The first is “deal 4 to a unit at a battlefield.” Here “deal 4” is the game action, while “a unit at a battlefield,” is its complement. The second instruction, “draw 1,” has no complement. 
+
+>*Example:* Teemo, Strategist’s defend trigger reads “When I defend, choose an enemy unit here and reveal the top 5 cards of your Main Deck. Deal 1 to that unit for each card with Hidden revealed this way, then recycle the revealed cards.” There are four instructions here: “choose an enemy unit here,” “reveal the top 5 cards of your Main Deck,” “deal 1 to that unit for each card with Hidden revealed this way,” and “recycle the revealed cards.”

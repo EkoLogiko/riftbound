@@ -1,0 +1,3 @@
+This will be placed in the [[Champion Zone]] at the start of the game.
+Must be a champion unit with a [[Champion]] tag that matches the tag on your [[Champion Legend]].
+A player’s **Chosen Champion** is both the specific card chosen for this slot during [[Deck Building]] and also any [[Champion Unit]] with the same name as the specific card selected for this specific slot during the course of play.

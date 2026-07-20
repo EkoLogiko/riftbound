@@ -1,0 +1,3 @@
+Each card has a name that identifies it uniquely. This is usually located in the middle of the card.
+Cards that are printed in different languages but represent the same card are considered to have the same name for the purposes of deckbuilding and gameplay.
+Some cards have both a short name and a subtitle. For all purposes, including rules and deckbuilding, such a card’s name is “Short Name, Subtitle”.

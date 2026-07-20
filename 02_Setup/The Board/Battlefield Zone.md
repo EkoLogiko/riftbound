@@ -1,0 +1,1 @@
+The **Battlefield Zone** houses multiple [[Battlefield]]s.

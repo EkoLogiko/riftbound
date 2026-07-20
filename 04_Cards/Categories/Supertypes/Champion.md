@@ -1,0 +1,1 @@
+**Champion** is a supertype that applies exclusively to units. It impacts the rules for [[Deck Building]].

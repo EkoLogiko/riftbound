@@ -1,0 +1,1 @@
+Signature is a supertype that may apply to [[Game Object]]s of any card type. It impacts the rules for [[Deck Building]].

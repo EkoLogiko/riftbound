@@ -1,0 +1,1 @@
+This level of [[Privacy]] indicates that no player may read or look at the face of the card.
