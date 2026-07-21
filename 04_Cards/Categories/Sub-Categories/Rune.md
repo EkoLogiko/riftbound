@@ -1,1 +1,0 @@
-A sub-category encompassing cards with the rune type. These are [[Channel]]ed rather than played. They remain on the board after being channeled, but they are not permanents, as they are not Main Deck Cards.

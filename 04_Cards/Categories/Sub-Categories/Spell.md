@@ -1,1 +1,0 @@
-A sub-category encompassing [[Main Deck Card]]s with the spell type, which do not remain on the board after being played.

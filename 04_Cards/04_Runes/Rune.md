@@ -1,0 +1,1 @@
+**Rune** is a [[Card Type]].

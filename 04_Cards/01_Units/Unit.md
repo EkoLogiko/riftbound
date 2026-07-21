@@ -9,7 +9,7 @@
 	- They retain the properties of being a Unit, but are not on the Board and thus cannot take actions or be affected by [[Spell]]s, [[Abilities]], or [[Game Action]]s  that target Units on the Board.
 	- Units can be affected by spells and game effects that target Units in the Trash.
 
-Unit is also a [[Card Type]]. This is a unique identifier that some spells or abilities will use to restrict what they can choose or affect. The card type is relevant in all zones.
+Unit is also a [[Card Type]].
 
 Unit can be marked with [[Damage]].
 
