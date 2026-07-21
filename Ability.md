@@ -1,1 +1,7 @@
+---
+aliases:
+  - ability
+  - abilities
+  - Abilities
+---
 **Abilities** are discrete pieces of text that describe what a card may or must do. They may appear on any card.

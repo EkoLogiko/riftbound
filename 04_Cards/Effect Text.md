@@ -1,5 +1,5 @@
 Some cards have a separate section of text below the [[Rules Text]]. This is referred to as the **Effect Text**.
-Effect Text can contain additional [[Abilities]]. It can be blank and is [[Inactive]] unless te card with the Effect Text is [[Attached]] to another card.
+Effect Text can contain additional [[Ability]]. It can be blank and is [[Inactive]] unless te card with the Effect Text is [[Attached]] to another card.
 
 The abilities in the Effect Text section of a card are appended to the [[Rules Text]] of the card to which the card with the Effect Text is [[Attached]].
 

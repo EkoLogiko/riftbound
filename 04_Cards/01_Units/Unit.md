@@ -1,12 +1,19 @@
+---
+aliases:
+  - Units
+  - unit
+  - units
+---
+
 **Units** are [[Game Object]]s while:
 - On [[The Board]]
 	- Units are at one of several [[Location]]s while on the Board: a [[Battlefield]] or their [[Base]].
 	- Units and their details are [[Public Information]] while on the Board.
-	- Units can be chosen, affected, or manipulated by [[Spell]]s, [[Abilities]], or [[Game Action]]s that specify *Units*.
+	- Units can be chosen, affected, or manipulated by [[Spell]]s, [[Ability]], or [[Game Action]]s that specify *Units*.
 	- Units can be [[Kill]]ed.
 - In a [[Trash]]
 	- Units are treated as Cards, similar to when in the [[Hand]].
-	- They retain the properties of being a Unit, but are not on the Board and thus cannot take actions or be affected by [[Spell]]s, [[Abilities]], or [[Game Action]]s  that target Units on the Board.
+	- They retain the properties of being a Unit, but are not on the Board and thus cannot take actions or be affected by [[Spell]]s, [[Ability]], or [[Game Action]]s  that target Units on the Board.
 	- Units can be affected by spells and game effects that target Units in the Trash.
 
 Unit is also a [[Card Type]].

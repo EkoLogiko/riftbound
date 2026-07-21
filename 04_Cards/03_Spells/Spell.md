@@ -1,3 +1,10 @@
+---
+aliases:
+  - Spells
+  - spells
+  - spell
+---
+
 **Spell** is a [[Card Type]] of [[Main Deck Card]]s.
 A spell can be played during an [[Open State]] outside of [[Showdown]]s on its controller's turn. A spell is controlled by the player who played it.
 

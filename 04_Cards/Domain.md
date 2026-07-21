@@ -1,3 +1,8 @@
+---
+aliases:
+  - Domains
+---
+
 Most cards belong to one or more of **six** Domains, identified by one or more symbols in the lower right corner.
 Each Domain has an associated color, a unique symbol, and a shorthand used to represent that symbol in written text.
 

@@ -4,41 +4,102 @@
     "type": "split",
     "children": [
       {
-        "id": "5942494cb30ecb03",
+        "id": "01df6c0689b63353",
         "type": "tabs",
         "children": [
           {
-            "id": "22c6171b4d8d5200",
+            "id": "cfc2539db01e03e5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "04_Cards/07_Tokens/Token.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Grafo di Token"
+            }
+          },
+          {
+            "id": "b0b05a814d5940df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Cards/04_Runes/Rune.md",
+                "file": "04_Cards/07_Tokens/Token.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rune"
+              "title": "Token"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "5d3aa6fa1de8e7b3",
+        "id": "0692f336b33cefe6",
         "type": "tabs",
         "children": [
           {
-            "id": "eca03e2e307f18ac",
+            "id": "821ddfe6730db30d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
-                "file": "04_Cards/Rules Text/Rules Text.md",
-                "mode": "source",
-                "source": false
+                "file": "04_Cards/07_Tokens/Token.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
               },
-              "icon": "lucide-file",
-              "title": "Rules Text"
+              "icon": "lucide-git-fork",
+              "title": "Grafo di Token"
             }
           }
         ]
@@ -214,43 +275,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22c6171b4d8d5200",
+  "active": "b0b05a814d5940df",
   "lastOpenFiles": [
-    "04_Cards/Card Name.md",
-    "04_Cards/03_Spells/Spell.md",
-    "04_Cards/Categories/Sub-Categories/Rune (sub-category).md",
-    "02_Setup/The Board/Base.md",
-    "04_Cards/Categories/Rune Deck Card.md",
-    "03_Game Objects/Game Object.md",
-    "Channel.md",
-    "04_Cards/Categories/Sub-Categories/Spell (sub-category).md",
-    "01_Deck Construction/Main Deck.md",
-    "04_Cards/Categories/Main Deck Card.md",
-    "04_Cards/Rules Text/Instructions.md",
-    "04_Cards/01_Units/Unit.md",
-    "Abilities.md",
-    "04_Cards/Rules Text/Rules Text.md",
-    "01_Deck Construction/Champion Legend.md",
-    "04_Cards/04_Runes/Rune.md",
-    "04_Cards/Card Type.md",
-    "04_Cards/03_Spells/Reaction.md",
-    "04_Cards/Rules Text/Symbol.md",
-    "04_Cards/04_Runes",
-    "04_Cards/03_Spells/Action.md",
-    "04_Cards/02_Gear/Gear.md",
     "04_Cards/03_Spells/Spell Resolution.md",
-    "Chain Item.md",
-    "Triggered Ability.md",
+    "04_Cards/07_Tokens/Token.md",
+    "Ability.md",
+    "04_Cards/Multiple Types.md",
+    "04_Cards/07_Tokens",
     "Game Effect.md",
-    "Legion.md",
+    "Recycle.md",
+    "recycled.md",
+    "Cleanup.md",
+    "04_Cards/Rules Text/Rules Text.md",
+    "Location.md",
+    "04_Cards/06_Legends/Champion Legend.md",
+    "Exhaust.md",
+    "Exhausted.md",
+    "04_Cards/01_Units/Damage.md",
+    "04_Cards/Categories/Permanent.md",
+    "Activated Abilities.md",
+    "Passive Ability.md",
+    "Target.md",
+    "Move.md",
+    "Kill.md",
+    "Destination.md",
+    "03_Game Objects/Game Object.md",
+    "04_Cards/05_Battlefields/Battlefield.md",
+    "04_Cards/06_Legends",
+    "01_Deck Construction/Domain Identity.md",
+    "01_Deck Construction/Signature Card.md",
+    "01_Deck Construction/Rune Deck.md",
+    "04_Cards/05_Battlefields",
+    "04_Cards/04_Runes",
     "04_Cards/03_Spells",
     "04_Cards/02_Gear",
     "06_Gear",
     "04_Cards/01_Units",
     "04_Cards/Rules Text",
-    "04_Cards/Categories/Senza nome",
-    "04_Cards/Categories/Supertypes",
-    "04_Cards/Categories/Sub-Categories",
-    "04_Cards/Categories"
+    "04_Cards/Categories/Senza nome"
   ]
 }

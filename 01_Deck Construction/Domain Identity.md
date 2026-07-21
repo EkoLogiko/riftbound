@@ -4,4 +4,4 @@ The deck's **Domain Identity** is dictated by the domains of your [[Champion Leg
 # Domain Legality
 If a card has a single [[Domain]], then that card is permitted in the **Domain Identity** that corresponds to the same Domain.
 If a card has more than one Domain, then that card is permitted only in a Domain Identity that contains all of the indicated Domains on that card.
-Some [[Game Effect]]s may allow a player to add cards to their deck irrespective of those cards’ Domains. Those cards are considered part of their deck’s **Domain Identity**, regardless of their Domain.
+Some [[Game Effect|Game Effects]] may allow a player to add cards to their deck irrespective of those cards’ Domains. Those cards are considered part of their deck’s **Domain Identity**, regardless of their Domain.

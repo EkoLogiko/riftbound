@@ -7,5 +7,5 @@ A card’s printed Rules Text is [[Inactive]] while that card is [[Attached]] to
 Any granted or appended Rules Text on a card is still [[Active]] even if that card is [[Attached]] to another card.
 
 This section may contain:
-- [[Abilities]]
+- [[Ability]]
 - [[Instructions]]

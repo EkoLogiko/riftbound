@@ -1,4 +1,4 @@
-A Main Deck of at least 40 [[Main Deck Card]]s: A [[Chosen Champion]] Unit, as well as [[Unit]]s, [[Gear]], and [[Spell]]s.
+A Main Deck of at least 40 [[Main Deck Card]]s: A [[Chosen Champion]] Unit, as well as [[Unit]]s, [[Gear]], and [[Spell|spell]].
 Your Main Deck can include up to 3 copies of the same named card. This includes your [[Chosen Champion]].
 Cards have different names even if they represent the same character.
 

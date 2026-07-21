@@ -1,4 +1,5 @@
-- [[Main Deck]]
+- [[Main Deck]] (40+)
+- [[Side Deck]] (10+)
 - [[Rune Deck]] (12)
 - [[Champion Legend]] (1)
 - [[Battlefield]]s (3)

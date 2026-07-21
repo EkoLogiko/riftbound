@@ -8,7 +8,7 @@ The [[Cost]] of this action is [[Exhausting]] the [[Unit]] subjected to the acti
 # Multiple Standard Movements
 Players may perform multiple Units' standard move simultaneously. This is treated as one game action performed on multiple Units.
 - When a Move like this is declared by a player, the units' [[Destination]] must be the same.
-- When a Move like this is declared by a player, the [[Origins]] do not need to be the same.
+- When a Move like this is declared by a player, the [[Origin]]s do not need to be the same.
 - The Costs of Exhausting the Units are also paid Simultaneously.
 # Standard Move Destination
 The Destinations where [[Unit]]s can [[Move]] to with their **Standard Move** are restricted:

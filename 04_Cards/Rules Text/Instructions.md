@@ -1,4 +1,4 @@
-**Instructions** are a type of text that appears on [[Spell]]s and within [[Abilities]]. They describe actions to be performed by one or more players.
+**Instructions** are a type of text that appears on [[Spell]]s and within [[Ability]]. They describe actions to be performed by one or more players.
 Instructions will self-describe when they are to be executed. If there is no timing described, they will execute during resolution
 
 > *Example:* An instruction says “as you play me, kill a unit as an additional cost.” That instruction will execute as the card is being played. If the card is given [[Repeat]] and the Repeat cost is paid, this instruction will not execute because the Repeat execution does not happen until resolution of the spell, after this instruction has executed.
