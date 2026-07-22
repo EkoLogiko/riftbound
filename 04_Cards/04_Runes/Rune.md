@@ -1,3 +1,10 @@
+---
+aliases:
+  - rune
+  - Runes
+  - runes
+---
+
 **Rune** is a [[Card Type]] and is **NOT** a [[Main Deck Card]], thus is not a [[Permanent]] either. They reside in the [[Rune Deck]].
 Runes produce the resources needed to pay costs. They produce both [[Energy]] and [[Power]].
 

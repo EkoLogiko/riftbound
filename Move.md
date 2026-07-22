@@ -3,4 +3,10 @@ aliases:
   - move
   - Moved
   - moved
+  - Moves
+  - moves
+  - Movement
+  - movement
+  - Movements
+  - movements
 ---

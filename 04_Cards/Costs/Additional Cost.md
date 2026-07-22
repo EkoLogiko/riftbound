@@ -1,0 +1,2 @@
+These [[Cost|costs]] are in addition to the base cost of the [[Spell]] or [[Ability]] and will include *“as an additional cost.”*
+Additional Costs must be paid to finalize the spell or ability, in addition to the [[Base Cost]].

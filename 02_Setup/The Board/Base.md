@@ -1,3 +1,10 @@
+---
+aliases:
+  - base
+  - Bases
+  - bases
+---
+
 Each player has their own **Base**.
 Each Base is a [[Location]].
 [[Permanent]]s and [[Rune]]s controlled by a player reside in that player's Base.

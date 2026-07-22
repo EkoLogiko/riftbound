@@ -1,0 +1,1 @@
+The Victory Score is 8 points by default, but some [[Mode of Play|Game Mode]] or card effects may alter the Victory Score.

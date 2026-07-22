@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04_Cards/07_Tokens/Token.md",
+                "file": "04_Cards/Costs/Cost.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -41,21 +41,21 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Grafo di Token"
+              "title": "Grafo di Cost"
             }
           },
           {
-            "id": "b0b05a814d5940df",
+            "id": "4724c2600e12d3b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Cards/07_Tokens/Token.md",
+                "file": "04_Cards/Costs/Cost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Token"
+              "title": "Cost"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04_Cards/07_Tokens/Token.md",
+                "file": "04_Cards/Costs/Cost.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -94,12 +94,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.7132754626224411,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Grafo di Token"
+              "title": "Grafo di Cost"
             }
           }
         ]
@@ -275,43 +275,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0b05a814d5940df",
+  "active": "821ddfe6730db30d",
   "lastOpenFiles": [
-    "04_Cards/03_Spells/Spell Resolution.md",
-    "04_Cards/07_Tokens/Token.md",
-    "Ability.md",
-    "04_Cards/Multiple Types.md",
-    "04_Cards/07_Tokens",
-    "Game Effect.md",
-    "Recycle.md",
-    "recycled.md",
-    "Cleanup.md",
-    "04_Cards/Rules Text/Rules Text.md",
-    "Location.md",
-    "04_Cards/06_Legends/Champion Legend.md",
-    "Exhaust.md",
-    "Exhausted.md",
-    "04_Cards/01_Units/Damage.md",
-    "04_Cards/Categories/Permanent.md",
-    "Activated Abilities.md",
-    "Passive Ability.md",
-    "Target.md",
+    "04_Cards/Costs/Applied Cost.md",
+    "04_Cards/Costs/Cost.md",
+    "04_Cards/03_Spells/Reaction.md",
+    "04_Cards/Costs/Cost within Istructions.md",
+    "Resolution.md",
+    "04_Cards/Costs/Additional Cost.md",
+    "04_Cards/Costs/Base Cost.md",
+    "04_Cards/Costs",
+    "06_Playing the Game",
+    "02_Setup/Location.md",
     "Move.md",
-    "Kill.md",
-    "Destination.md",
-    "03_Game Objects/Game Object.md",
+    "02_Setup/The Board/Base.md",
     "04_Cards/05_Battlefields/Battlefield.md",
+    "05_Mechanics/Winning.md",
+    "Conceding.md",
+    "Victory Score.md",
+    "Mode of Play.md",
+    "Burning Out.md",
+    "Conquer.md",
+    "Hold.md",
+    "05_Mechanics/Control.md",
+    "04_Cards/Ownership.md",
+    "Unique Abilities.md",
+    "Inherent Ability.md",
+    "Entering the Board.md",
+    "04_Cards/04_Runes/Rune.md",
+    "Create.md",
+    "Hide.md",
+    "05_Mechanics",
+    "04_Cards/07_Tokens",
     "04_Cards/06_Legends",
-    "01_Deck Construction/Domain Identity.md",
-    "01_Deck Construction/Signature Card.md",
-    "01_Deck Construction/Rune Deck.md",
     "04_Cards/05_Battlefields",
     "04_Cards/04_Runes",
     "04_Cards/03_Spells",
     "04_Cards/02_Gear",
-    "06_Gear",
-    "04_Cards/01_Units",
-    "04_Cards/Rules Text",
-    "04_Cards/Categories/Senza nome"
+    "06_Gear"
   ]
 }

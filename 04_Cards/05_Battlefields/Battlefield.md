@@ -1,3 +1,10 @@
+---
+aliases:
+  - battlefield
+  - bf
+  - Battlefields
+  - battlefields
+---
 Battlefields are [[Game Object]]s which start the game on [[The Board]] and remain in place for the duration of regular play. They are not [[Permanent|permanents]].
 
 Battlefields are [[Ownership|Owned]] by a player.
