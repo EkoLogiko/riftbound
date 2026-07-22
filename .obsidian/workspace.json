@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04_Cards/Costs/Cost.md",
+                "file": "06_Playing the Game/Turn/Focus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Grafo di Cost"
+              "title": "Grafo di Focus"
             }
           },
           {
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Cards/Costs/Cost.md",
+                "file": "06_Playing the Game/Turn/Focus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cost"
+              "title": "Focus"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04_Cards/Costs/Cost.md",
+                "file": "06_Playing the Game/Turn/Focus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -95,11 +95,11 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.7132754626224411,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Grafo di Cost"
+              "title": "Grafo di Focus"
             }
           }
         ]
@@ -275,10 +275,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "821ddfe6730db30d",
+  "active": "4724c2600e12d3b4",
   "lastOpenFiles": [
-    "04_Cards/Costs/Applied Cost.md",
+    "06_Playing the Game/Turn/Priority.md",
+    "06_Playing the Game/Turn/Focus.md",
+    "Discretionary Action.md",
+    "06_Playing the Game/Turn/Phases/Main Phase.md",
+    "06_Playing the Game/Turn/Phases",
+    "Limited Action.md",
+    "06_Playing the Game/Turn/States/Turn States.md",
+    "06_Playing the Game/Turn/States/Neutral State.md",
+    "06_Playing the Game/Turn/States/Closed State.md",
+    "06_Playing the Game/Turn/States/Open State.md",
+    "06_Playing the Game/Turn/States/Showdown State.md",
+    "06_Playing the Game/Turn/The Turn.md",
+    "06_Playing the Game/Turn/States",
+    "06_Playing the Game/Turn/Turn Player.md",
+    "Discretionary Actions.md",
+    "Game Action.md",
+    "06_Playing the Game/Turn/Phases/Turn Phases.md",
     "04_Cards/Costs/Cost.md",
+    "06_Playing the Game/Turn",
+    "04_Cards/Costs/Applied Cost.md",
     "04_Cards/03_Spells/Reaction.md",
     "04_Cards/Costs/Cost within Istructions.md",
     "Resolution.md",
@@ -290,28 +308,10 @@
     "Move.md",
     "02_Setup/The Board/Base.md",
     "04_Cards/05_Battlefields/Battlefield.md",
-    "05_Mechanics/Winning.md",
-    "Conceding.md",
-    "Victory Score.md",
-    "Mode of Play.md",
-    "Burning Out.md",
-    "Conquer.md",
-    "Hold.md",
-    "05_Mechanics/Control.md",
-    "04_Cards/Ownership.md",
-    "Unique Abilities.md",
-    "Inherent Ability.md",
-    "Entering the Board.md",
-    "04_Cards/04_Runes/Rune.md",
-    "Create.md",
-    "Hide.md",
     "05_Mechanics",
     "04_Cards/07_Tokens",
     "04_Cards/06_Legends",
     "04_Cards/05_Battlefields",
-    "04_Cards/04_Runes",
-    "04_Cards/03_Spells",
-    "04_Cards/02_Gear",
-    "06_Gear"
+    "04_Cards/04_Runes"
   ]
 }

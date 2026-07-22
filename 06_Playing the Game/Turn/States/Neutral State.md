@@ -1,0 +1,1 @@
+If no [[Showdown]] or [[Combat]] is in progress, the [[The Turn|turn]] is in a **Neutral State**.

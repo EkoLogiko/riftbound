@@ -1,0 +1,1 @@
+If no [[The Chain|Chain]] exists, the [[The Turn|turn]] is in an **Open State**.
