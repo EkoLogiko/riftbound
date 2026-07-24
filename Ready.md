@@ -1,0 +1,6 @@
+---
+aliases:
+  - ready
+  - readies
+  - readied
+---

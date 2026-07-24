@@ -1,0 +1,6 @@
+---
+aliases:
+  - draw
+  - Draws
+  - draws
+---

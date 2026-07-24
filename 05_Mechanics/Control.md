@@ -5,6 +5,8 @@ aliases:
   - controlled
   - Controls
   - controls
+  - Controller
+  - controller
 ---
 **Control** is the concept of a player having influence of a [[Game Object]] and applies differently to different [[Card Type|card types]].
 # [[Battlefield]]

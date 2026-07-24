@@ -1,4 +1,4 @@
 ---
 aliases:
-  - Chain Items
+  - Outstanding
 ---

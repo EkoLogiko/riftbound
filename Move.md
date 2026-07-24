@@ -9,4 +9,5 @@ aliases:
   - movement
   - Movements
   - movements
+  - moving
 ---

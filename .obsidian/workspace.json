@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Playing the Game/Turn/Focus.md",
+                "file": "06_Playing the Game/Turn/Cleanup (short).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Focus"
+              "title": "Cleanup (short)"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06_Playing the Game/Turn/Focus.md",
+                "file": "06_Playing the Game/Turn/Cleanup (short).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -99,7 +99,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Grafo di Focus"
+              "title": "Grafo di Cleanup (short)"
             }
           }
         ]
@@ -277,41 +277,41 @@
   },
   "active": "4724c2600e12d3b4",
   "lastOpenFiles": [
-    "06_Playing the Game/Turn/Priority.md",
-    "06_Playing the Game/Turn/Focus.md",
-    "Discretionary Action.md",
-    "06_Playing the Game/Turn/Phases/Main Phase.md",
-    "06_Playing the Game/Turn/Phases",
-    "Limited Action.md",
-    "06_Playing the Game/Turn/States/Turn States.md",
-    "06_Playing the Game/Turn/States/Neutral State.md",
-    "06_Playing the Game/Turn/States/Closed State.md",
+    "05_Mechanics/Contested Control.md",
+    "06_Playing the Game/Turn/Cleanup (short).md",
+    "06_Playing the Game/Turn/Phases/03_Ending Phase/Expiration Step.md",
+    "06_Playing the Game/Turn/Cleanup.md",
+    "04_Cards/05_Battlefields/Battlefield.md",
+    "06_Playing the Game/Combat and Showdowns/Showdown.md",
     "06_Playing the Game/Turn/States/Open State.md",
-    "06_Playing the Game/Turn/States/Showdown State.md",
-    "06_Playing the Game/Turn/The Turn.md",
-    "06_Playing the Game/Turn/States",
-    "06_Playing the Game/Turn/Turn Player.md",
-    "Discretionary Actions.md",
-    "Game Action.md",
+    "Power of this Card Domain.md",
+    "06_Playing the Game/Combat and Showdowns/Combat.md",
+    "05_Mechanics/Control.md",
+    "Finali.md",
+    "Finalized Item.md",
+    "Pending Item.md",
     "06_Playing the Game/Turn/Phases/Turn Phases.md",
-    "04_Cards/Costs/Cost.md",
-    "06_Playing the Game/Turn",
-    "04_Cards/Costs/Applied Cost.md",
-    "04_Cards/03_Spells/Reaction.md",
-    "04_Cards/Costs/Cost within Istructions.md",
+    "Pending Chain Item.md",
+    "06_Playing the Game/Turn/Priority.md",
     "Resolution.md",
-    "04_Cards/Costs/Additional Cost.md",
-    "04_Cards/Costs/Base Cost.md",
+    "Finalize.md",
+    "Chain Item.md",
+    "FEPR.md",
+    "06_Playing the Game/Combat and Showdowns/Non-Combat Showdown.md",
+    "Heal.md",
+    "06_Playing the Game/Turn/Phases/03_Ending Phase/Ending Step.md",
+    "06_Playing the Game/Turn/Phases/03_Ending Phase/Ending Phase.md",
+    "Showdowns.md",
+    "04_Cards/03_Spells/Action.md",
+    "06_Playing the Game/Turn/Phases/03_Ending Phase",
+    "06_Playing the Game/Combat and Showdowns",
+    "06_Playing the Game/Turn/Phases/02_Main Phase",
+    "06_Playing the Game/Turn/Phases/01_Start of Turn",
+    "06_Playing the Game/Turn/Phases",
+    "06_Playing the Game/Turn/States",
+    "06_Playing the Game/Turn",
     "04_Cards/Costs",
     "06_Playing the Game",
-    "02_Setup/Location.md",
-    "Move.md",
-    "02_Setup/The Board/Base.md",
-    "04_Cards/05_Battlefields/Battlefield.md",
-    "05_Mechanics",
-    "04_Cards/07_Tokens",
-    "04_Cards/06_Legends",
-    "04_Cards/05_Battlefields",
-    "04_Cards/04_Runes"
+    "05_Mechanics"
   ]
 }

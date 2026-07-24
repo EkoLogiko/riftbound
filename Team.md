@@ -1,0 +1,6 @@
+---
+aliases:
+  - team
+  - Teams
+  - teams
+---

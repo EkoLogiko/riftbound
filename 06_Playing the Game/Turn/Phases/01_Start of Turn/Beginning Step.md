@@ -1,0 +1,2 @@
+At the start of the [[Beginning Phase]] [[Game Effect|Game Effects]] appropriate for this phase take place.
+These effects are usually [[Triggered Ability|Triggered Abilities]] reciting *"At the start of the Beginning Phase"*.

@@ -1,0 +1,2 @@
+When a player enter this phase, the following [[Task]] becomes [[Outstanding Task|Outstanding]]:
+- The [[Turn Player]] [[Channel|channels]] 2 [[Rune|runes]] from their [[Rune Deck]]. If there are fewer than 2 runes in the Rune Deck, they channel as many as possible.

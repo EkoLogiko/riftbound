@@ -1,0 +1,2 @@
+Showdowns that occur as a result of a player [[Move|moving]] to an empty [[Battlefield]] are a stand-alone Phase and do not create a [[Combat]].
+These Showdowns are called Non-Combat Showdowns. During the proceedings of a Non-Combat Showdown, units controlled by a different player may become present at the Battlefield where the Showdown is ongoing. This will cause the Showdown to become a Combat Showdown in the following [[Cleanup]].

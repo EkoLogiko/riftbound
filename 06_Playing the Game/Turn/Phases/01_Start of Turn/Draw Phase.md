@@ -1,0 +1,2 @@
+When a player enter this phase, the following [[Task]] becomes [[Outstanding Task|Outstanding]]:
+- The [[Turn Player]] [[Draw|draws]] 1. If there are no cards remaining in their [[Main Deck]] to draw, the Turn Player has been [[Burning Out|Burned Out]]. After completing the Burn Out, the Turn Player still draws 1.

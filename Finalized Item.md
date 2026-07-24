@@ -1,0 +1,4 @@
+---
+aliases:
+  - Finalized Items
+---

@@ -1,0 +1,6 @@
+---
+aliases:
+  - task
+  - Tasks
+  - tasks
+---
