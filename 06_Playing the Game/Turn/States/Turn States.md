@@ -1,3 +1,8 @@
+---
+aliases:
+  - State of Turn
+---
+
 At any given time, the turn is in either a [[Neutral State]] or a [[Showdown State]].
 At any given time, the turn is in either an [[Open State]] or a [[Closed State]].
 

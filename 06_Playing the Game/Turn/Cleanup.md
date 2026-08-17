@@ -1,14 +1,14 @@
 A **Cleanup** will be made an [[Outstanding Task]] at the following times:
 - After the game transitions to or from an [[Open State||Open]] or [[Closed State|Closed]] state.
 - After the game transitions between [[Turn Phases|Phases]], unless specified otherwise.
-- After a [[Pending Item]] is added to [[The Chain]].
-- After a [[Pending Item]] becomes a [[Finalized Item]] on [[The Chain]].
+- After a [[Pending Chain Item]] is added to [[The Chain]].
+- After a [[Pending Chain Item]] becomes a [[Finalized Chain Item]] on [[The Chain]].
 - After a [[Chain Item]] is removed from [[The Chain]] for any reason.
 - After any number of [[Game Object|Game Objects]] enter or leave [[The Board]].
 - After the status of any number of [[Game Object|Game Objects]] changes for any reason.
 - After a [[Move]] is completed.
 
-While a Cleanup is occurring, [[Chain Item|Chain Items]] cannot be [[Finalize|Finalized]] or [[Resolution|Resolves]]. New [[Pending Item]] can be added, but [[Finalized Item|Finalized Items]] cannot be executed and [[Priority]] and [[Focus]] are not passed or awarded.
+While a Cleanup is occurring, [[Chain Item|Chain Items]] cannot be [[Finalize|Finalized]] or [[Resolution|Resolves]]. New [[Pending Chain Item]] can be added, but [[Finalized Chain Item|Finalized Items]] cannot be executed and [[Priority]] and [[Focus]] are not passed or awarded.
 Similarly, while Chain Items are Resolving, a Cleanup cannot occur. If an event occurs during the Resolution of a Chain Item that qualifies for a Cleanup, that Cleanup will be made an [[Outstanding Task]].
 
 If an event occurs during a Cleanup that qualifies for a Cleanup, another Cleanup will occur immediately after the first completes, repeating until a Cleanup occurs with no new change in the game’s state. These new Cleanups are themselves Outstanding Tasks.
@@ -20,7 +20,7 @@ When a Cleanup occurs, the following Tasks become Outstanding in the order descr
 	2) If there are Units present at the [[Battlefield]] the Combat is taking place at, but have the opposite designation of their controller, they lose that designation, and gain the same designation as their [[Control|Controller]] now.
 	3) If there are Units at locations other than the [[Battlefield]] that the Combat is taking place at, but have either Attacker or Defender designations, they lose those designations now.
 3) Handle outstanding board state:
-	1) All Units that have [[Lethal Damage]] marked on them and that have [[Deathknell]] or other abilities that trigger on their own death will trigger such abilities now, making note of their current location, attributes, and other information relevant to add the trigger as a [[Pending Item]].
+	1) All Units that have [[Lethal Damage]] marked on them and that have [[Deathknell]] or other abilities that trigger on their own death will trigger such abilities now, making note of their current location, attributes, and other information relevant to add the trigger as a [[Pending Chain Item]].
 	2) All Units that have [[Lethal Damage]] marked on them are killed and placed in their owners' [[Trash]].
 4) Players lose control of any controlled [[Battlefield|Battlefields]] without their Units occupying them if the turn is in an [[Open State]] and there is no [[Showdown]] or [[Combat]] ongoing there.
 5) Recall all [[Attached|Unattached]] non-Unit [[Gear]] and non-Unit [[Rune|Runes]] at [[Battlefield|Battlefields]], and all [[Permanent|Permanents]] and Runes in [[Base|Bases]] other than their controller’s. Remove all [[Hidden]] cards from all Battlefields that are not controlled by the same player and place them in their owner's [[Trash]].

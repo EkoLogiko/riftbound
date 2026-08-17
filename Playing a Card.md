@@ -1,4 +1,4 @@
 ---
 aliases:
-  - Finalized
+  - Play a Card
 ---
