@@ -291,9 +291,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1884df9c23c228c8",
+  "active": "0812a8c8195e3be6",
   "lastOpenFiles": [
     "00_Resources/Riftbound_FEPR.drawio.png",
+    "06_Playing the Game/Chains/FEPR.md",
     "06_Playing the Game/Chains/FEPR Steps/Resolution.md",
     "06_Playing the Game/Chains/FEPR Steps/Pass.md",
     "06_Playing the Game/Chains/FEPR Steps/Finalize.md",
@@ -302,7 +303,6 @@
     "00_Resources",
     "Add.md",
     "06_Playing the Game/Chains/FEPR Steps",
-    "06_Playing the Game/Chains/FEPR.md",
     "06_Playing the Game/Chains/HOT FEPR.md",
     "06_Playing the Game/Chains/Task.md",
     "06_Playing the Game/Chains/Pending Chain Item.md",
