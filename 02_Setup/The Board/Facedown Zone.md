@@ -1,3 +1,8 @@
+---
+aliases:
+  - Facedown Zones
+---
+
 Each [[Battlefield]] is associated with a sub-zone called a **Facedown Zone**, a single logical space that a card can be put facedown in through various [[Game Effect]]s.
 
 Each **Facedown Zone** has a maximum occupancy of one card. The maximum occupancy of a Facedown Zone can increase or decrease. If the maximum occupancy of a Facedown Zone decreases to a number less than the number of cards currently located there, the controller of that Facedown Zone must put a number of cards equal to the difference in the [[Trash]] from the Facedown Zone.

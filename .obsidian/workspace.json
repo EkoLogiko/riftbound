@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06_Playing the Game/Turn/Focus.md",
+                "file": "06_Playing the Game/Playing Cards/Playing a Card.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -41,39 +41,25 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Grafo di Focus"
+              "title": "Grafo locale"
             }
           },
           {
-            "id": "4724c2600e12d3b4",
+            "id": "8ce173f298ccedce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Playing the Game/Chains/HOT FEPR.md",
+                "file": "06_Playing the Game/Playing Cards/Playing a Card.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOT FEPR"
-            }
-          },
-          {
-            "id": "1884df9c23c228c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06_Playing the Game/Chains/FEPR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FEPR"
+              "title": "Playing a Card"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "0692f336b33cefe6",
@@ -85,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06_Playing the Game/Chains/FEPR.md",
+                "file": "06_Playing the Game/Playing Cards/Playing a Card.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -108,7 +94,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224411,
+                  "scale": 0.9999999999999973,
                   "close": true
                 }
               },
@@ -291,43 +277,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0812a8c8195e3be6",
+  "active": "8ce173f298ccedce",
   "lastOpenFiles": [
-    "00_Resources/Riftbound_FEPR.drawio.png",
-    "06_Playing the Game/Chains/FEPR.md",
-    "06_Playing the Game/Chains/FEPR Steps/Resolution.md",
-    "06_Playing the Game/Chains/FEPR Steps/Pass.md",
     "06_Playing the Game/Chains/FEPR Steps/Finalize.md",
-    "06_Playing the Game/Chains/FEPR Steps/Execute.md",
-    "Playing a Card.md",
-    "00_Resources",
-    "Add.md",
-    "06_Playing the Game/Chains/FEPR Steps",
-    "06_Playing the Game/Chains/HOT FEPR.md",
-    "06_Playing the Game/Chains/Task.md",
-    "06_Playing the Game/Chains/Pending Chain Item.md",
-    "02_Setup/Non-Board Zones/The Chain.md",
+    "06_Playing the Game/Playing Cards/Playing a Card.md",
+    "04_Cards/Costs/Total Cost.md",
+    "04_Cards/Costs/Cost.md",
+    "04_Cards/Costs/Cost Discounts.md",
+    "04_Cards/Costs/Base Cost.md",
+    "04_Cards/Costs/Additional Cost.md",
+    "Deflect.md",
+    "Copy.md",
+    "06_Playing the Game/Playing Cards/Target.md",
+    "06_Playing the Game/Playing Cards/Splitting.md",
+    "Deal.md",
+    "Replacement Effect.md",
+    "Trigger Condition.md",
+    "02_Setup/The Board/Facedown Zone.md",
+    "02_Setup/Non-Board Zones/Champion Zone.md",
+    "02_Setup/The Board/Legend Zone.md",
+    "02_Setup/Non-Board Zones/Trash.md",
+    "02_Setup/The Board/Battlefield Zone.md",
+    "Reflexive Trigger.md",
+    "Delayed Trigger.md",
     "Outstanding Task.md",
-    "06_Playing the Game/Turn/Phases/01_Start of Turn/Start of Turn.md",
-    "06_Playing the Game/Turn/States/Turn States.md",
-    "Chain Item.md",
     "06_Playing the Game/Chains/Finalized Chain Item.md",
-    "Check Legality.md",
-    "06_Playing the Game/Turn/States/Open State.md",
-    "06_Playing the Game/Turn/Cleanup (short).md",
-    "06_Playing the Game/Chains",
-    "05_Mechanics/Contested Control.md",
-    "06_Playing the Game/Turn/Phases/03_Ending Phase/Expiration Step.md",
-    "06_Playing the Game/Turn/Cleanup.md",
-    "04_Cards/05_Battlefields/Battlefield.md",
+    "06_Playing the Game/Chains/HOT FEPR.md",
+    "04_Cards/07_Tokens/Token.md",
     "06_Playing the Game/Combat and Showdowns/Showdown.md",
-    "Power of this Card Domain.md",
+    "06_Playing the Game/Playing Cards",
+    "00_Resources/Riftbound_FEPR.drawio.png",
+    "00_Resources",
+    "06_Playing the Game/Chains/FEPR Steps",
+    "06_Playing the Game/Chains",
     "06_Playing the Game/Turn/Phases/03_Ending Phase",
     "06_Playing the Game/Combat and Showdowns",
     "06_Playing the Game/Turn/Phases/02_Main Phase",
     "06_Playing the Game/Turn/Phases/01_Start of Turn",
     "06_Playing the Game/Turn/Phases",
-    "06_Playing the Game/Turn/States",
-    "06_Playing the Game/Turn"
+    "06_Playing the Game/Turn/States"
   ]
 }

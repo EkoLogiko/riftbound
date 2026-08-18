@@ -1,6 +1,7 @@
 ---
 aliases:
   - Finalized
+  - finalizing
 ---
 Finalize is the first step of [[FEPR]]. It is followed by the [[Execute]] step.
 

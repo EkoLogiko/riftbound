@@ -1,4 +1,4 @@
 ---
 aliases:
-  - Play a Card
+  - Copied
 ---

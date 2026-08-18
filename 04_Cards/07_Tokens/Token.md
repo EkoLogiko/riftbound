@@ -1,3 +1,8 @@
+---
+aliases:
+  - Tokens
+---
+
 **Tokens** are [[Game Object|Game Objects]] created by [[Spell|spells]] and [[Ability|abilities]] during play. They can be represented by anything. Printed tokens are included in Riftbound booster packs, but they are not required to play a token.
 
 The effect that creates a token may specify the conditions or circumstances under which it enters the board. These stipulations may alter the usual steps for [[Playing a Card|playing a card]] if the token is played:
