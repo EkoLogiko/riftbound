@@ -48,3 +48,6 @@ Cards have different states during the process of being played: When initially b
 	4) Check that the card has the appropriate permissions to be played at this timing.
 	5) If any of the above checks fail, the actions taken in this process are undone and the action is cancelled.
 	6) Finish [[Finalize|finalizing]] this card and proceed with the card's category of Play.
+# Flowchart
+
+![[Riftbound_PlayACard.drawio.png]]
