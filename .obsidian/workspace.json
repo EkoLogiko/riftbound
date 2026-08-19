@@ -45,31 +45,17 @@
             }
           },
           {
-            "id": "8ce173f298ccedce",
+            "id": "2f279866a1f3743a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Playing the Game/Playing Cards/Linked Instructions.md",
+                "file": "06_Playing the Game/Abilities/Playing or Activating Abilities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linked Instructions"
-            }
-          },
-          {
-            "id": "e4b1b9a3f0ff301b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06_Playing the Game/Playing Cards/Mistargeting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mistargeting"
+              "title": "Playing or Activating Abilities"
             }
           }
         ],
@@ -85,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06_Playing the Game/Playing Cards/Linked Instructions.md",
+                "file": "06_Playing the Game/Abilities/Playing or Activating Abilities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -108,7 +94,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7345863357173013,
+                  "scale": 1.0298774796156691,
                   "close": true
                 }
               },
@@ -150,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hold effect",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -291,35 +277,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ce173f298ccedce",
+  "active": "2f279866a1f3743a",
   "lastOpenFiles": [
+    "04_Cards/03_Spells/Reaction.md",
+    "06_Playing the Game/Abilities/Playing or Activating Abilities.md",
+    "Countered.md",
+    "06_Playing the Game/Chains/Pending Chain Item.md",
+    "06_Playing the Game/Abilities/Ability.md",
+    "06_Playing the Game/Abilities/Linked Ability.md",
+    "Deathnkell.md",
+    "06_Playing the Game/Abilities/Delayed Abilities/Delayed Linked Ability.md",
+    "06_Playing the Game/Playing Cards/Referents.md",
+    "06_Playing the Game/Playing Cards/Playing a Card.md",
+    "06_Playing the Game/Playing Cards/Handling Illegal or Impossible Instructions.md",
+    "06_Playing the Game/Abilities/Delayed Ability.md",
+    "06_Playing the Game/Abilities/Delayed Abilities/Delayed Replacement.md",
+    "06_Playing the Game/Abilities/Delayed Abilities/Delayed Passive Ability.md",
+    "06_Playing the Game/Abilities/Triggered Ability.md",
     "06_Playing the Game/Playing Cards/Mistargeting.md",
     "06_Playing the Game/Playing Cards/Linked Instructions.md",
-    "Senza nome.md",
-    "06_Playing the Game/Playing Cards/Handling Illegal or Impossible Instructions.md",
-    "06_Playing the Game/Chains/FEPR Steps/Finalize.md",
-    "06_Playing the Game/Playing Cards/Target.md",
-    "06_Playing the Game/Playing Cards/Playing a Card.md",
+    "06_Playing the Game/Abilities/Delayed Abilities/Delayed Trigger.md",
+    "06_Playing the Game/Abilities/Replacement Effect.md",
+    "06_Playing the Game/Abilities/Delayed Abilities",
+    "06_Playing the Game/Abilities/Reflexive Trigger.md",
+    "06_Playing the Game/Abilities/Delayed Abilities.md",
+    "06_Playing the Game/Abilities/Activated Abilities.md",
+    "06_Playing the Game/Abilities/Passive Ability.md",
+    "06_Playing the Game/Abilities/Common Triggered Abilities/Defend Triggers.md",
+    "06_Playing the Game/Abilities/Common Triggered Abilities/Attack Triggers.md",
+    "Attacker.md",
+    "06_Playing the Game/Abilities/Common Triggered Abilities",
+    "06_Playing the Game/Abilities",
     "00_Resources/Riftbound_PlayACard.drawio.png",
-    "04_Cards/Costs/Total Cost.md",
-    "04_Cards/Costs/Cost.md",
-    "04_Cards/Costs/Cost Discounts.md",
-    "04_Cards/Costs/Base Cost.md",
-    "04_Cards/Costs/Additional Cost.md",
-    "Deflect.md",
-    "Copy.md",
-    "06_Playing the Game/Playing Cards/Splitting.md",
-    "Deal.md",
-    "Replacement Effect.md",
-    "Trigger Condition.md",
-    "02_Setup/The Board/Facedown Zone.md",
-    "02_Setup/Non-Board Zones/Champion Zone.md",
-    "02_Setup/The Board/Legend Zone.md",
-    "02_Setup/Non-Board Zones/Trash.md",
-    "02_Setup/The Board/Battlefield Zone.md",
-    "Reflexive Trigger.md",
-    "Delayed Trigger.md",
-    "Outstanding Task.md",
     "06_Playing the Game/Playing Cards",
     "00_Resources/Riftbound_FEPR.drawio.png",
     "00_Resources",
@@ -327,9 +316,6 @@
     "06_Playing the Game/Chains",
     "06_Playing the Game/Turn/Phases/03_Ending Phase",
     "06_Playing the Game/Combat and Showdowns",
-    "06_Playing the Game/Turn/Phases/02_Main Phase",
-    "06_Playing the Game/Turn/Phases/01_Start of Turn",
-    "06_Playing the Game/Turn/Phases",
-    "06_Playing the Game/Turn/States"
+    "06_Playing the Game/Turn/Phases/02_Main Phase"
   ]
 }

@@ -3,7 +3,6 @@ aliases:
   - mistarget
   - mistargets
 ---
-
 The process for a card's choice becoming *Invalid or Unavailable* is referred to as **mistargeting**. This process is checked during the [[Finalize]] process, during *step 6* of the [[Playing a Card]] process.
 
 If all of an instruction's [[Target|Targets]] become invalid or unavailable by the time the spell begins resolving, that instruction will not execute.

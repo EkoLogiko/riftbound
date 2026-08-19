@@ -1,6 +1,7 @@
-# Handling Illegal and Impossible Instructions
+
 (Also see [[Mistargeting]])
 (Also see [[Linked Instructions]])
+(Also see [[Referents]])
 
 A [[Spell|spell]] or [[Ability|ability]] resolves even if some or all of its [[Target|targets]] are illegal. A target is illegal as the spell resolves if it no longer meets the targeting requirements of the spell, or if it has changed [[Zone]] to or from a [[Non-Board Zone]].
 
@@ -32,3 +33,10 @@ If the spell checks information about a target that is no longer legal or a card
 If the spell checks information about a target that is legal or a card or permanent whose location, zone, or status has not changed such that information is no longer available, that information is accessible.
 
 A spell or ability that moves something to a different zone as a cost or effect can "look back" at its characteristics before it changes zones.
+
+A spell or ability that leaves [[The Chain]] during the process of its resolution will cease further execution of its instructions. This immediately causes the spell or ability to finish resolving.
+
+If a [[Delayed Ability]]’s duration has ended before it was generated, the Delayed Ability is not generated and any instructions related to it are ignored.
+
+>*Example*: Targon’s Peak is a battlefield that reads in part **“When you conquer here, ready up to 2 runes at the end of this turn.”** If Targon’s Peak is conquered during the Ending Phase after the beginning of the ending step, such as via an effect like thrill of the Hunt, the [[Delayed Trigger]] will not be generated.
+>*Example*: Akshan, Mischievous reads in part “When you play me, if you paid the additional cost, move an enemy gear to your base. You control it until I leave the board. If it's an Equipment, attach it to me.” If Akshan leaves the board in reaction to his play effect, the [[Delayed Passive Ability]] “You control it until I leave the board,” will not be generated. You will not gain control of the targeted gear even for a moment

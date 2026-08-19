@@ -1,3 +1,6 @@
+---
+aliases:
+---
 Some instructions may reference [[Game Object|Game Objects]] affected by, or [[Game Action|Game Actions]] performed in, other instructions in a card. The referenced and referencing instructions are called “linked instructions.”
 
 >*Example*: Hidden Blade reads **“Kill a unit at a battlefield. Its controller draws 2.”** The **“its”** in the second instruction references the unit in the first, so the two instructions of the spell are linked.
@@ -10,3 +13,7 @@ If the [[Game Action]] performed in an earlier linked instruction is replaced, t
 
 >*Example*: Hidden Blade reads **“Kill a unit at a battlefield. Its controller draws 2.”** This effect is split into two instructions: killing the unit and the targeted unit’s controller drawing 2. The later linked instruction doesn’t reference an action directly, so it will execute even if the kill action of the earlier linked action is replaced by some other event.
 >*Example*: Deathgrip reads **“Kill a friendly unit. If you do, give +[M] equal to its Might to another friendly unit this turn.”** If the friendly unit in question is not killed by Deathgrip because its death is replaced with another event, the later linked instruction will not execute because **“if you do”** directly references the game action
+
+Referencing a [[Game Action]] in this way only refers to the game action being performed and the object or player it was performed on, not the circumstances of its performance.
+
+>*Example*: A spell reads **“Deal 3 to an enemy unit at a battlefield. If you do, heal units you control at the same location as that unit.”** If some but not all of that damage is prevented, the later linked instruction will still execute. **Example**: A spell reads **“Banish an enemy unit at a battlefield, then play it to any battlefield. Then if you do, do this: stun all enemy units there.”** A player plays it targeting a unit that has a passive replacement effect that reads “I enter in base.” The replacement effect causes the unit to enter in base, but this does not prevent the reflexive trigger of the spell from being placed on the chain. All that matters is that the unit was played.

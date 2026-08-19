@@ -2,6 +2,7 @@
 aliases:
   - Finalized
   - finalizing
+  - finalization
 ---
 Finalize is the first step of [[FEPR]]. It is followed by the [[Execute]] step.
 
@@ -21,7 +22,7 @@ Once a card has reached *step 6* of the [[Playing a Card|Play a Card]] process, 
 	- If there are other [[Pending Chain Item|Pending Items]] on [[The Chain]], then the controller of those Pending Items completes *Steps 2 through 5* of [[Playing a Card]] for those items before continuing.
 	- Other players have an opportunity to play one or more [[Reaction]] before the resolution of spells.
 	- Otherwise, execute the [[Game Effect]] of the spell, from top to bottom of the rules text of the card and then place the card in the [[Trash]] of the owning player.
-	- Handle illegal and impossible instructions. (see below)
+	- [[Handling Illegal or Impossible Instructions]].
 # What happens after Finalizing?
 - If, after finalizing the Chain Item, that item is a [[Unit]], [[Gear]], or an [[Ability]] that [[Add|Adds]] resources, it resolves immediately—Move to Step 4: [[Resolution|Resolve]]. 
 - If, after finalizing the Chain Item, there are still Pending Chain Items, return to step 1. Finalize. 
