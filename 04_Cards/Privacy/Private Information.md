@@ -1,1 +1,3 @@
 This level of [[Privacy]] indicates that only the controller of a card on the board or the owner of a card in any other zone may read or look at the face of the card.
+
+During the course of a game of Riftbound, a player may choose to show [[Private Information]] to one or more other players. This does not count as [[Reveal|revealing]] and does not trigger any effects that trigger when cards are revealed.

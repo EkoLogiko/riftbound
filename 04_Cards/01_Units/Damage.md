@@ -8,5 +8,5 @@ Damage tracks how close a [[Unit]] is to being [[Kill]]ed. [[Lethal Damage]] is 
 Damage is not a [[Game Object]].
 
 Damage can be [[Heal]]ed. It is automatically done at two specific times:
-- At the [[End of Turn]].
+- At the [[Ending Phase]].
 - During a [[Combat Cleanup]].

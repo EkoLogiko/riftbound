@@ -1,4 +1,4 @@
-Invoke an **Ending Special [[Cleanup]]**, inserting at step 3:
+Invoke an [[End of Turn Cleanup]], inserting at step 3:
 - 3c) [[Heal]] all [[Unit|Units]]
 - 3d) All "this turn" effects expire simultaneously
 - 3e) Each player's [[Rune Pool]] empties. Any unspent [[Energy]] and [[Power]] are lost.

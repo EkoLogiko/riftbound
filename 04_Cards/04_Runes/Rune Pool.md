@@ -4,4 +4,4 @@ All Abilities that include the action "[[Add]]" are abilities that are adding En
 
 Energy and Power do not have a physical marker or tracker, although players may wish to use a physical tracker if they are retaining unspent Energy and Power over the course of their turn.
 
-Every player's Rune Pool empties at the start of each player's [[Main Phase]] and the [[End of Turn|end of each player's turn]]. Any unspent Energy or Power are lost.
+Every player's Rune Pool empties at the start of each player's [[Main Phase]] and the [[Ending Phase|end of each player's turn]]. Any unspent Energy or Power are lost.

@@ -1,10 +1,9 @@
-This action is limited in when it can be performed:
+This is a [[Discretionary Action]] and is limited in when it can be performed:
 - Can be done at any time during a player's [[Main Phase]],
 - Cannot be performed during a [[Closed State]].
 - Cannot be performed during a [[Showdown]] or [[Combat]].
 
-The [[Cost]] of this action is [[Exhausting]] the [[Unit]] subjected to the action.
-
+The [[Cost]] of this action is [[Exhaust|Exhausting]] the [[Unit]] subjected to the action. The effect is [[Move|moving]] the [[Unit]].
 # Multiple Standard Movements
 Players may perform multiple Units' standard move simultaneously. This is treated as one game action performed on multiple Units.
 - When a Move like this is declared by a player, the units' [[Destination]] must be the same.

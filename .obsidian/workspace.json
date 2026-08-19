@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06_Playing the Game/Playing Cards/Playing a Card.md",
+                "file": "06_Playing the Game/Game Actions/Limited Actions/Countered.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Playing the Game/Abilities/Playing or Activating Abilities.md",
+                "file": "06_Playing the Game/Game Actions/Limited Actions/Countered.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Playing or Activating Abilities"
+              "title": "Countered"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06_Playing the Game/Abilities/Playing or Activating Abilities.md",
+                "file": "06_Playing the Game/Game Actions/Limited Actions/Countered.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hold effect",
+                "query": "cleanup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -279,33 +279,36 @@
   },
   "active": "2f279866a1f3743a",
   "lastOpenFiles": [
-    "04_Cards/03_Spells/Reaction.md",
-    "06_Playing the Game/Abilities/Playing or Activating Abilities.md",
-    "Countered.md",
-    "06_Playing the Game/Chains/Pending Chain Item.md",
-    "06_Playing the Game/Abilities/Ability.md",
-    "06_Playing the Game/Abilities/Linked Ability.md",
-    "Deathnkell.md",
-    "06_Playing the Game/Abilities/Delayed Abilities/Delayed Linked Ability.md",
-    "06_Playing the Game/Playing Cards/Referents.md",
-    "06_Playing the Game/Playing Cards/Playing a Card.md",
-    "06_Playing the Game/Playing Cards/Handling Illegal or Impossible Instructions.md",
-    "06_Playing the Game/Abilities/Delayed Ability.md",
-    "06_Playing the Game/Abilities/Delayed Abilities/Delayed Replacement.md",
-    "06_Playing the Game/Abilities/Delayed Abilities/Delayed Passive Ability.md",
-    "06_Playing the Game/Abilities/Triggered Ability.md",
-    "06_Playing the Game/Playing Cards/Mistargeting.md",
-    "06_Playing the Game/Playing Cards/Linked Instructions.md",
-    "06_Playing the Game/Abilities/Delayed Abilities/Delayed Trigger.md",
-    "06_Playing the Game/Abilities/Replacement Effect.md",
+    "06_Playing the Game/Abilities/Common Triggered Abilities/Play Effects.md",
+    "06_Playing the Game/Game Actions/Limited Actions/Countered.md",
+    "06_Playing the Game/Game Actions/Limited Action.md",
+    "06_Playing the Game/Game Actions/Limited Actions/Reveal.md",
+    "04_Cards/Privacy/Private Information.md",
+    "06_Playing the Game/Game Actions/Limited Actions/Stun.md",
+    "06_Playing the Game/Turn/End of Turn Cleanup.md",
+    "06_Playing the Game/Turn/Phases/03_Ending Phase/Expiration Step.md",
+    "06_Playing the Game/Turn/Phases/03_Ending Phase/Ending Phase.md",
+    "06_Playing the Game/Game Actions/Limited Actions/Discard.md",
+    "Universal Power.md",
+    "Power.md",
+    "06_Playing the Game/Game Actions/Discretionary Actions/Hide.md",
+    "06_Playing the Game/Game Actions/Discretionary Actions/Play.md",
+    "Hidden.md",
+    "06_Playing the Game/Game Actions/Discretionary Action.md",
+    "06_Playing the Game/Game Actions/Discretionary Actions/Standard Move.md",
+    "06_Playing the Game/Game Actions/Limited Actions/Move.md",
+    "02_Setup/Location.md",
+    "06_Playing the Game/Game Actions/Limited Actions/Heal.md",
+    "End of Turn.md",
+    "04_Cards/04_Runes/Rune Pool.md",
+    "06_Playing the Game/Game Actions/Limited Actions/Deal.md",
+    "Bonus Damage.md",
+    "04_Cards/01_Units/Damage.md",
+    "Combat Cleanup.md",
+    "06_Playing the Game/Game Actions/Limited Actions",
+    "06_Playing the Game/Game Actions/Discretionary Actions",
+    "06_Playing the Game/Game Actions",
     "06_Playing the Game/Abilities/Delayed Abilities",
-    "06_Playing the Game/Abilities/Reflexive Trigger.md",
-    "06_Playing the Game/Abilities/Delayed Abilities.md",
-    "06_Playing the Game/Abilities/Activated Abilities.md",
-    "06_Playing the Game/Abilities/Passive Ability.md",
-    "06_Playing the Game/Abilities/Common Triggered Abilities/Defend Triggers.md",
-    "06_Playing the Game/Abilities/Common Triggered Abilities/Attack Triggers.md",
-    "Attacker.md",
     "06_Playing the Game/Abilities/Common Triggered Abilities",
     "06_Playing the Game/Abilities",
     "00_Resources/Riftbound_PlayACard.drawio.png",
@@ -313,9 +316,6 @@
     "00_Resources/Riftbound_FEPR.drawio.png",
     "00_Resources",
     "06_Playing the Game/Chains/FEPR Steps",
-    "06_Playing the Game/Chains",
-    "06_Playing the Game/Turn/Phases/03_Ending Phase",
-    "06_Playing the Game/Combat and Showdowns",
-    "06_Playing the Game/Turn/Phases/02_Main Phase"
+    "06_Playing the Game/Chains"
   ]
 }

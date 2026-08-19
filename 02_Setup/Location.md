@@ -1,3 +1,7 @@
+---
+aliases:
+  - Locations
+---
 **Locations** are the [[Game Object|Game Objects]] and [[Zone|Zones]] where [[Permanent|permanents]] and [[Rune|runes]] may be located. They include [[Battlefield|Battlefields]] and [[Base|Bases]].
 A permanent’s Location is a characteristic of that permanent that may be referenced by [[Game Effect|Game Effects]].
 
