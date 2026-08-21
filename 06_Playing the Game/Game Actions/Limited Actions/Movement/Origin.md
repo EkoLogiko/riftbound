@@ -1,0 +1,1 @@
+The **Origin** is where the [[Permanent]] is starting from during a [[Move|Movement]].

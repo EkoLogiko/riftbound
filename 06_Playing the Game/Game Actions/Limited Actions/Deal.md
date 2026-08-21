@@ -3,6 +3,8 @@ aliases:
   - deal
   - Dealing
   - dealing
+  - Dealt
+  - dealt
 ---
 **Dealing** [[Damage]] is a [[Limited Action]] [[Spell|Spells]], [[Unit|Units]], [[Ability|Abilities]], and other game effects may do to units.
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06_Playing the Game/Game Actions/Limited Actions/Countered.md",
+                "file": "06_Playing the Game/Combat and Showdowns/Steps of Combat/Resolution Step.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Playing the Game/Game Actions/Limited Actions/Countered.md",
+                "file": "06_Playing the Game/Combat and Showdowns/Steps of Combat/Resolution Step.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Countered"
+              "title": "Resolution Step"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06_Playing the Game/Game Actions/Limited Actions/Countered.md",
+                "file": "06_Playing the Game/Combat and Showdowns/Steps of Combat/Resolution Step.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cleanup",
+                "query": "Game Object",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -279,32 +279,34 @@
   },
   "active": "2f279866a1f3743a",
   "lastOpenFiles": [
-    "06_Playing the Game/Abilities/Common Triggered Abilities/Play Effects.md",
-    "06_Playing the Game/Game Actions/Limited Actions/Countered.md",
-    "06_Playing the Game/Game Actions/Limited Action.md",
-    "06_Playing the Game/Game Actions/Limited Actions/Reveal.md",
-    "04_Cards/Privacy/Private Information.md",
-    "06_Playing the Game/Game Actions/Limited Actions/Stun.md",
-    "06_Playing the Game/Turn/End of Turn Cleanup.md",
-    "06_Playing the Game/Turn/Phases/03_Ending Phase/Expiration Step.md",
-    "06_Playing the Game/Turn/Phases/03_Ending Phase/Ending Phase.md",
-    "06_Playing the Game/Game Actions/Limited Actions/Discard.md",
-    "Universal Power.md",
-    "Power.md",
-    "06_Playing the Game/Game Actions/Discretionary Actions/Hide.md",
-    "06_Playing the Game/Game Actions/Discretionary Actions/Play.md",
-    "Hidden.md",
-    "06_Playing the Game/Game Actions/Discretionary Action.md",
-    "06_Playing the Game/Game Actions/Discretionary Actions/Standard Move.md",
-    "06_Playing the Game/Game Actions/Limited Actions/Move.md",
-    "02_Setup/Location.md",
-    "06_Playing the Game/Game Actions/Limited Actions/Heal.md",
-    "End of Turn.md",
-    "04_Cards/04_Runes/Rune Pool.md",
+    "06_Playing the Game/Combat and Showdowns/Establish Control.md",
+    "06_Playing the Game/Combat and Showdowns/Steps of Combat/Resolution Step.md",
+    "06_Playing the Game/Combat and Showdowns/Combat Result.md",
+    "06_Playing the Game/Combat and Showdowns/Combat Damage.md",
+    "06_Playing the Game/Combat and Showdowns/Combat Cleanup.md",
+    "06_Playing the Game/Combat and Showdowns/Steps of Combat/Combat Showdown Step.md",
+    "06_Playing the Game/Combat and Showdowns/Steps of Combat/Combat Damage Step.md",
+    "06_Playing the Game/Combat and Showdowns/Damage Assignment.md",
+    "Backline.md",
+    "Tank.md",
+    "04_Cards/01_Units/Might.md",
     "06_Playing the Game/Game Actions/Limited Actions/Deal.md",
-    "Bonus Damage.md",
-    "04_Cards/01_Units/Damage.md",
-    "Combat Cleanup.md",
+    "06_Playing the Game/Combat and Showdowns/Attacker.md",
+    "06_Playing the Game/Combat and Showdowns/Defender.md",
+    "03_Game Objects/Game Object.md",
+    "06_Playing the Game/Game Actions/Game Action.md",
+    "06_Playing the Game/Turn/Focus.md",
+    "06_Playing the Game/Combat and Showdowns/Steps of Combat/Steps of Combat.md",
+    "06_Playing the Game/Combat and Showdowns/Combat Showdown.md",
+    "06_Playing the Game/Combat and Showdowns/Steps of Combat",
+    "06_Playing the Game/Combat and Showdowns/Combat.md",
+    "06_Playing the Game/Game Actions/Limited Actions/Movement/Destination.md",
+    "06_Playing the Game/Game Actions/Limited Actions/Movement/Recall.md",
+    "06_Playing the Game/Game Actions/Limited Actions/Movement/Move.md",
+    "06_Playing the Game/Game Actions/Limited Actions/Movement/Origin.md",
+    "06_Playing the Game/Game Actions/Limited Actions/Movement",
+    "06_Playing the Game/Game Actions/Limited Actions/Pay.md",
+    "06_Playing the Game/Game Actions/Limited Action.md",
     "06_Playing the Game/Game Actions/Limited Actions",
     "06_Playing the Game/Game Actions/Discretionary Actions",
     "06_Playing the Game/Game Actions",
@@ -314,8 +316,6 @@
     "00_Resources/Riftbound_PlayACard.drawio.png",
     "06_Playing the Game/Playing Cards",
     "00_Resources/Riftbound_FEPR.drawio.png",
-    "00_Resources",
-    "06_Playing the Game/Chains/FEPR Steps",
-    "06_Playing the Game/Chains"
+    "00_Resources"
   ]
 }

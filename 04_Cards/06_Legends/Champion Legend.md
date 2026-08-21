@@ -3,6 +3,8 @@ aliases:
   - Legend
   - champion legend
   - legend
+  - Legends
+  - legends
 ---
 Legends are [[Game Object|Game Objects]]. They start the game in the [[Legend Zone]] and cannot typically leave it during play.
 They are not [[Permanent|Permanents]] and may have one or mone [[Domain|Domains]], which dictate the [[Domain Identity]] of the deck.

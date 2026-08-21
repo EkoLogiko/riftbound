@@ -1,6 +1,6 @@
 [[Game Object|Game Objects]] can have multiple types. In that case, they have the property of all of their types, except when they are mutually exclusive.
 
-If a [[Game Object]] is a [[Unit]], regardless of its other types, it has [[Might]], can have [[damage]] marked on it, enters [[exhausted]], and can be played to any valid [[Location]]. It will not be recalled to base in step 5 of a [[Cleanup]].
+If a [[Game Object]] is a [[Unit]], regardless of its other types, it has [[Might]], can have [[damage]] marked on it, enters [[Exhaust|Exhausted]], and can be played to any valid [[Location]]. It will not be recalled to base in step 5 of a [[Cleanup]].
 
 If a [[Game Object]] is a [[Rune]], regardless of its other types, it will be [[Recycle|recycled]] to the [[Rune Deck]].
 

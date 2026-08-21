@@ -5,6 +5,7 @@ aliases:
   - readied
   - Readying
   - readying
+  - Readied
 ---
 **Readying** is a [[Limited Action]] that marks a non-[[Spell|spell]] [[Game Object]] on [[The Board]] as available for action. To mark it, rotate the card 90 degrees opposite of [[Exhaust|Exhausting]], so that it is vertically oriented in front of you.
 
