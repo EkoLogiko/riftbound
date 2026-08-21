@@ -1,3 +1,7 @@
+---
+aliases:
+  - Hands
+---
 Each player has their own Hand. This is the location cards go when [[Draw]]n.
 The cards in a player’s hand are *unordered*. Their sequence does not matter and they may be reorganized.
 

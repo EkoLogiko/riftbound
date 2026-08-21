@@ -1,0 +1,29 @@
+- **Number of Players:** 4 Players.
+- **Formation of Players:** 2v2 - 2 opponent each, 1 teammate.
+- **Victory Score:** 11
+- **Battlefield Count:** 3
+	- Each player provides three (3) [[Battlefield|Battlefields]], included in their deck during deck building.
+	- The player who is taking the first turn removes their Battlefields. They will not be used.
+- **Setup:** Each player who is not going first randomly selects one (1) of their three (3) Battlefields. The other two are removed and will not be used for this game. The selected Battlefields are placed simultaneously between the players before play and will be used for this game.
+	- Turn order alternates teams.
+		- The first player will be followed by an opponent, then the first player's teammate, then the first opponent's teammate, and so on.
+		- If allies are sitting across from each other, turn order proceeds clockwise as normal.
+		- If allies are sitting next to each other, turn order is passed across the table.
+- **Format:** Best of 1. The first player to reach the [[Victory Score]] in Points wins the Match.
+	- Teammates win or lose together.
+	- If one player [[Conceding|Concedes]], then the entire team loses.
+	- If one player Loses, then the entire team loses.
+	- If one player Wins, then the entire team wins.
+- **First Turn Process:** The player going first does not draw a card during their first [[Draw Phase]] of the game. The player going last [[Channel|channels]] an extra [[Rune]] from their Rune Deck during their first Channel Phase of the game.
+# Unique Rules
+- Players may play spells or activate abilities during their Teammate's Turn. In order to do so, their Teammate will [[Invite]] them to play a spell or activate an ability using their own [[Priority]].
+- [[Battlefield|Battlefields]] controlled during the [[Beginning Phase]] of a player's turn by that player's teammate are disqualified from being scored by that Team, that turn. 
+- [[Control]] is not shared. Players may not [[Hide]] cards at [[Battlefield]] controlled by their Teammate. Players may not issue [[Standard Move|Standard Movement]] to their Teammate's Units.
+- Points are shared by a team. Both players on a team have the same number of Victory Points. If a player gains or loses points, their team gains or loses those points. If a spell or ability references or checks a player gaining or losing points, that ability checks whether that player’s team gains or loses points.
+- **Friendly** describes controlled Game Objects by a player or their Teammate.
+- [[Hand|Hands]] are [[Private Information]]. Players may show their [[Private Information]] to one or more players at any time during play, including their teammate. [[Reveal|Revealing]] Cards is still a [[Game Action]] and cannot be done unless instructed.
+- The **Final Point** has an adjustment to the criteria when [[Scoring]].
+	- When scoring the Final Point from [[Conquer]], a player must [[Scoring|Score]] each [[Battlefield]] in the same turn, excepting any that were occupied by their ally during the [[Scoring Step]] of that turn’s [[Beginning Phase]].
+	- No other changes to Final Point restrictions.
+- Teammates may not utilize the same [[Champion Legend]].
+- Teammates may not utilize the same [[Battlefield|Battlefields]].

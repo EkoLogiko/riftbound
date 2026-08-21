@@ -1,0 +1,8 @@
+- **Number of Players:** 2 Players.
+- **Formation of Players:** 1v1 - 1 opponent each, No teams.
+- **Victory Score:** 8
+- **Battlefield Count:** 2
+	- Each player provides three (3) [[Battlefield|Battlefields]], included in their deck during deck building. Only 1 will be used, chosen during setup.
+- **Setup:** Each player randomly selects one (1) of their three (3) Battlefields. The other two are removed and will not be used for this game. The selected Battlefields are placed simultaneously in the Battlefield Zone.
+- **Format:** Best of 1. The first player to reach the [[Victory Score]] in Points wins the Match.
+- **First Turn Process:** The player going second channels an extra [[Rune]] from their [[Rune Deck Card]] during their first [[Channel Phase]] of the game.

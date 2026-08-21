@@ -1,0 +1,11 @@
+- **Number of Players:** 2 Players.
+- **Formation of Players:** 1v1 - 1 opponent each, No teams.
+- **Victory Score:** 8
+- **Battlefield Count:** 2
+	- Each player provides three (3) [[Battlefield|Battlefields]], included in their deck during deck building. Only 1 will be used, chosen during setup.
+- **Setup:** Each player selects one (1) of their three (3) Battlefields. The other two are set aside and will not be used for this round of play. The selected Battlefields are placed simultaneously in the Battlefield Zone. After this game, if a player won, the Battlefields that were used are to be removed and not selected again for this Match. One of the remaining Battlefields that were set aside must be chosen instead. If no player won a game, the battlefields presented for that game may be reused in a subsequent game.
+- **Format:** Best of 3. The first player to reach the Victory Score in Points wins the game. The winner of that game earns One Game Win. Players then reset the game state, remove the Battlefields in play from the game, choose new Battlefields from those set aside, and play again. The first player to earn Two Game Wins wins the match.
+	- This format may be played as best of 5. In such a case, during games 4 and 5 of the match players may present a battlefield that has been removed from the game.
+		- Players may only re-use a battlefield in this way if they have already presented each of their battlefields at least once during the match.
+		- Players may not present a battlefield **more than twice** in a match when re-using battlefields in this way.
+- **First Turn Process:** The player going second channels an extra [[Rune]] from their [[Rune Deck Card]] during their first [[Channel Phase]] of the game.

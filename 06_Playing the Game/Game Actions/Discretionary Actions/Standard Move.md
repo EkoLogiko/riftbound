@@ -1,3 +1,7 @@
+---
+aliases:
+  - Standard Movement
+---
 This is a [[Discretionary Action]] and is limited in when it can be performed:
 - Can be done at any time during a player's [[Main Phase]],
 - Cannot be performed during a [[Closed State]].
