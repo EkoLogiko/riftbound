@@ -1,0 +1,15 @@
+**Bonus Damage** is an intrinsic property that can be granted to [[Deal]] actions that influence the amount of [[Damage]] that the action is distributing. If more than one instance of **Bonus Damage** is applied or granted to a [[Deal]] action, all instances are summed and applied once.
+
+**Bonus Damage can only be a positive value**, and can only increase the amount of [[Damage]] being distributed. If, for any reason, Bonus Damage would be a negative number, then no Bonus Damage is applied to the action.
+
+**Bonus Damage** applies to the total damage [[Deal|Dealt]] by one instance of the action.
+- If the [[Deal]] action has a single [[Target]], the amount of [[Damage]] to that target will be increased by the Bonus Damage granted to it.
+- If the [[Deal]] action has multiple [[Target|Targets]], the amount of [[Damage]] dealt to each target is increased by Bonus Damage individually and separately.
+	- *Example*: Singularity is a spell that says **“Deal 6 to each of up to two units.”** A player plays Singularity while they also control Annie, Fiery, a unit that says “Your spells and abilities deal 1 Bonus Damage.” Singularity deals 1 Bonus Damage to both of its targets, dealing 7 to each.
+- If the [[Deal]] action [[Splitting|Splits]] damage, then the [[Bonus Damage]] applies to the amount of Damage that will be Split. This can alter the number of [[Target|targets]] eligible to be chosen.
+	- *Example*: Volibear, Furious is a unit that says in part **“When I attack, deal 5 damage split among any number of enemy units here.”** A player attacks with Volibear, Furious while they also control Annie, Fiery, a unit that says **“Your spells and abilities deal 1 Bonus Damage.”** Volibear, Furious now deals 6 damage split among any number of enemy units at its location, and can choose to split that damage among up to 6 units rather than the usual 5.
+
+If **no damage** was [[Deal|Dealt]], then **Bonus Damage will not apply**. If [[Damage]] is replaced or reduced by any means, the replacing or reducing action will include the Bonus Damage in the total damage when determining how much damage is to be dealt.
+
+>*Example*: Teemo, Strategist is a unit that reads in part **“When I defend, choose an enemy unit here and reveal the top 5 cards of your Main Deck. Deal 1 to that unit for each card with Hidden revealed this way, then recycle the revealed cards.”** He has Rabadon’s Deathcrown attached to him. An enemy unit moves to the battlefield where Teemo is located and a combat opens there. Teemo’s controller reveals the top 5 cards of their Main Deck and reveals no cards with Hidden. Although the ability has 3 Bonus Damage from Rabadon’s Deathcrown, no deal action is performed for the Bonus Damage to apply to.
+>*Example*: A unit has prevent 3 applied to them. The unit is located at the Void Gate battlefield. An opponent targets the unit with Hextech Ray. Hextech Ray deals 4 damage to the unit, including the Bonus Damage from Void Gate, which the prevent effect will prevent 3 of. The unit takes 1 damage.

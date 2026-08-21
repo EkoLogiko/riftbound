@@ -1,3 +1,9 @@
+---
+aliases:
+  - Split
+  - Splits
+---
+
 If a card specifies that an amount of [[Damage]] may be **split** among some number of [[Unit|Units]], then each Unit chosen is [[Target|Targeted]]. The [[Target|Targets]] are chosen when the [[Spell|spell]] or [[Ability|ability]] is finalized on [[The Chain]].
 
 A number of Targets can only be chosen up to, and not exceeding, the initial amount of [[Damage]] available when the spell is played.

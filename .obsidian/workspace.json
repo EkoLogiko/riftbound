@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06_Playing the Game/Conceding/Removal of a Player.md",
+                "file": "07_Additional Rules/Bonus Damage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Playing the Game/Conceding/Removal of a Player.md",
+                "file": "07_Additional Rules/Bonus Damage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Removal of a Player"
+              "title": "Bonus Damage"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06_Playing the Game/Conceding/Removal of a Player.md",
+                "file": "07_Additional Rules/Bonus Damage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,8 +279,13 @@
   },
   "active": "2f279866a1f3743a",
   "lastOpenFiles": [
-    "06_Playing the Game/Conceding/Conceding.md",
+    "06_Playing the Game/Playing Cards/Splitting.md",
+    "07_Additional Rules/Bonus Damage.md",
+    "07_Additional Rules/Mighty.md",
+    "07_Additional Rules/Buffs.md",
     "06_Playing the Game/Conceding/Removal of a Player.md",
+    "07_Additional Rules",
+    "06_Playing the Game/Conceding/Conceding.md",
     "06_Playing the Game/Conceding",
     "06_Playing the Game/Modes of Play/2v2 (Magma Chamber).md",
     "02_Setup/Non-Board Zones/Hand.md",
@@ -304,17 +309,12 @@
     "04_Cards/Categories/Tag.md",
     "06_Playing the Game/Scoring/Scoring.md",
     "06_Playing the Game/Layers",
-    "06_Playing the Game/Scoring/Hold.md",
-    "Senza nome.md",
-    "06_Playing the Game/Scoring/Conquer.md",
-    "06_Playing the Game/Combat and Showdowns/Steps of Combat/Resolution Step.md",
     "06_Playing the Game/Scoring",
     "06_Playing the Game/Combat and Showdowns/Steps of Combat",
     "06_Playing the Game/Game Actions/Limited Actions/Movement",
     "06_Playing the Game/Game Actions/Limited Actions",
     "06_Playing the Game/Game Actions/Discretionary Actions",
     "06_Playing the Game/Game Actions",
-    "06_Playing the Game/Abilities/Delayed Abilities",
     "00_Resources/Riftbound_PlayACard.drawio.png",
     "00_Resources/Riftbound_FEPR.drawio.png"
   ]
