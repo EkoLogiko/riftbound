@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "07_Additional Rules/Bonus Damage.md",
+                "file": "11_Tournament Rules/Infractions Resume.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07_Additional Rules/Bonus Damage.md",
+                "file": "11_Tournament Rules/Infractions Resume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bonus Damage"
+              "title": "Infractions Resume"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "07_Additional Rules/Bonus Damage.md",
+                "file": "11_Tournament Rules/Infractions Resume.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,10 +277,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f279866a1f3743a",
+  "active": "0812a8c8195e3be6",
   "lastOpenFiles": [
-    "06_Playing the Game/Playing Cards/Splitting.md",
+    "00_Resources/Riftbound_infractionsSummary.png",
     "07_Additional Rules/Bonus Damage.md",
+    "11_Tournament Rules/Infractions Resume.md",
+    "11_Tournament Rules",
+    "06_Playing the Game/Playing Cards/Splitting.md",
     "07_Additional Rules/Mighty.md",
     "07_Additional Rules/Buffs.md",
     "06_Playing the Game/Conceding/Removal of a Player.md",
@@ -306,15 +309,12 @@
     "06_Playing the Game/Layers/Trait-Altering Effects.md",
     "04_Cards/Rules Text/Keyword.md",
     "06_Playing the Game/Layers/Copy.md",
-    "04_Cards/Categories/Tag.md",
-    "06_Playing the Game/Scoring/Scoring.md",
     "06_Playing the Game/Layers",
     "06_Playing the Game/Scoring",
     "06_Playing the Game/Combat and Showdowns/Steps of Combat",
     "06_Playing the Game/Game Actions/Limited Actions/Movement",
     "06_Playing the Game/Game Actions/Limited Actions",
     "06_Playing the Game/Game Actions/Discretionary Actions",
-    "06_Playing the Game/Game Actions",
     "00_Resources/Riftbound_PlayACard.drawio.png",
     "00_Resources/Riftbound_FEPR.drawio.png"
   ]
