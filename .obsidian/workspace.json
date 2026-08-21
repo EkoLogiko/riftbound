@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06_Playing the Game/Combat and Showdowns/Steps of Combat/Resolution Step.md",
+                "file": "06_Playing the Game/Scoring/Scoring.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Playing the Game/Combat and Showdowns/Steps of Combat/Resolution Step.md",
+                "file": "06_Playing the Game/Scoring/Scoring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resolution Step"
+              "title": "Scoring"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06_Playing the Game/Combat and Showdowns/Steps of Combat/Resolution Step.md",
+                "file": "06_Playing the Game/Scoring/Scoring.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,10 +277,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f279866a1f3743a",
+  "active": "0812a8c8195e3be6",
   "lastOpenFiles": [
-    "06_Playing the Game/Combat and Showdowns/Establish Control.md",
+    "06_Playing the Game/Layers",
+    "06_Playing the Game/Scoring/Hold.md",
+    "Senza nome.md",
+    "06_Playing the Game/Scoring/Conquer.md",
+    "06_Playing the Game/Scoring/Scoring.md",
     "06_Playing the Game/Combat and Showdowns/Steps of Combat/Resolution Step.md",
+    "06_Playing the Game/Scoring",
+    "06_Playing the Game/Combat and Showdowns/Establish Control.md",
     "06_Playing the Game/Combat and Showdowns/Combat Result.md",
     "06_Playing the Game/Combat and Showdowns/Combat Damage.md",
     "06_Playing the Game/Combat and Showdowns/Combat Cleanup.md",
@@ -301,12 +307,7 @@
     "06_Playing the Game/Combat and Showdowns/Steps of Combat",
     "06_Playing the Game/Combat and Showdowns/Combat.md",
     "06_Playing the Game/Game Actions/Limited Actions/Movement/Destination.md",
-    "06_Playing the Game/Game Actions/Limited Actions/Movement/Recall.md",
-    "06_Playing the Game/Game Actions/Limited Actions/Movement/Move.md",
-    "06_Playing the Game/Game Actions/Limited Actions/Movement/Origin.md",
     "06_Playing the Game/Game Actions/Limited Actions/Movement",
-    "06_Playing the Game/Game Actions/Limited Actions/Pay.md",
-    "06_Playing the Game/Game Actions/Limited Action.md",
     "06_Playing the Game/Game Actions/Limited Actions",
     "06_Playing the Game/Game Actions/Discretionary Actions",
     "06_Playing the Game/Game Actions",
@@ -315,7 +316,6 @@
     "06_Playing the Game/Abilities",
     "00_Resources/Riftbound_PlayACard.drawio.png",
     "06_Playing the Game/Playing Cards",
-    "00_Resources/Riftbound_FEPR.drawio.png",
-    "00_Resources"
+    "00_Resources/Riftbound_FEPR.drawio.png"
   ]
 }
