@@ -1,7 +1,7 @@
 - [[The Chain]]
-- [[Trash]]es
-- [[Champion Zone]]s
-- [[Main Deck Zone]]s
-- [[Rune Deck Zone]]s
-- [[Banishment]]s
-- [[Hand]]s
+- [[Trash|Trashes]]
+- [[Champion Zone|Champion Zones]]
+- [[Main Deck Zone|Main Deck Zones]]
+- [[Rune Deck Zone|Rune Deck Zones]]
+- [[Banishment|Banishments]]
+- [[Hand|Hands]]

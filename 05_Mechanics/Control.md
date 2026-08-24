@@ -8,6 +8,8 @@ aliases:
   - Controller
   - controller
   - controlling
+  - Controllers
+  - controllers
 ---
 **Control** is the concept of a player having influence of a [[Game Object]] and applies differently to different [[Card Type|card types]].
 # [[Battlefield]]
@@ -35,7 +37,7 @@ Control of a [[Battlefield]] determines Control of its [[Ability|Abilities]]:
 # Control of Everything Else
 When a player [[Playing a Card|Plays]], [[Hide|Hides]], or [[Create|Creates]] a Card or other [[Game Object|Game Objects]], they are established as that [[Game Object]]'s Controller.
 - [[Spells]]: they are the [[Spell]]'s Controller and they choose targets, modes and pay costs for it.
-- [[Permanent|Permanents]] and [[Rune|Runes]]: they become the [[Game Object]] controller when they [[Entering the Board|Enter the Board]]; they make decisions about the Game Object's [[Inherent Ability|Inherent Abilities]],  [[Unique Abilities|Unique Ability]]. any [[Game Effect|Game Effects]] or decisions necessary while the card is being played and the ones about any [[Game Effect|Game Effects]] created from "When you play me" effects of [[Permanent|Permanents]].
+- [[Permanent|Permanents]] and [[Rune|Runes]]: they become the [[Game Object]] controller when they enter [[The Board]]; they make decisions about the Game Object's [[Inherent Ability|Inherent Abilities]],  [[Unique Abilities|Unique Ability]]. any [[Game Effect|Game Effects]] or decisions necessary while the card is being played and the ones about any [[Game Effect|Game Effects]] created from "When you play me" effects of [[Permanent|Permanents]].
 - [[Ability|Abilities]]: they are the [[Ability]] controller; by default, the Controller of an [[Ability's Source]] is the Controller of the Ability. If an Ability’s Source is located in a [[Non-Board Zone]], the Ability’s Controller is the [[Ownership|Owner]] of the Source. That player chooses targets, mode and pays costs for the Ability.
 	- Changes to Control of an [[Ability’s Source]] do not change Control of that Ability.
 

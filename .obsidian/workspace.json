@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11_Tournament Rules/Infractions Resume.md",
+                "file": "05_Mechanics/Control.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -45,17 +45,17 @@
             }
           },
           {
-            "id": "2f279866a1f3743a",
+            "id": "29d0e247139e235e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11_Tournament Rules/Infractions Resume.md",
+                "file": "05_Mechanics/Control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Infractions Resume"
+              "title": "Control"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11_Tournament Rules/Infractions Resume.md",
+                "file": "05_Mechanics/Control.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,8 +123,8 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "showSearch": true,
+                "searchQuery": "En"
               },
               "icon": "lucide-folder-closed",
               "title": "Esplora file"
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kill",
+                "query": "Control",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -279,36 +279,37 @@
   },
   "active": "0812a8c8195e3be6",
   "lastOpenFiles": [
+    "07_Additional Rules/Additional Turn.md",
+    "Entering the Board.md",
+    "06_Playing the Game/Turn/Turn Order.md",
+    "07_Additional Rules/XP.md",
+    "07_Additional Rules/Dependent Ability.md",
+    "07_Additional Rules/Dependent Keyword.md",
+    "07_Additional Rules/Inactive.md",
+    "07_Additional Rules/Active.md",
+    "Weaponmaster.md",
+    "Equip.md",
+    "Temporary.md",
+    "07_Additional Rules/Top-Most Card.md",
+    "02_Setup/Non-Board Zones/Non-Board Zone.md",
+    "02_Setup/Non-Board Zones/Hand.md",
+    "02_Setup/Non-Board Zones/Banishment.md",
+    "02_Setup/Non-Board Zones/Rune Deck Zone.md",
+    "02_Setup/Non-Board Zones/Main Deck Zone.md",
+    "07_Additional Rules/Attached.md",
+    "05_Mechanics/Control.md",
+    "03_Game Objects/Game Object.md",
+    "06_Playing the Game/Game Actions/Limited Actions/Attach.md",
+    "06_Playing the Game/Game Actions/Limited Actions/Movement/Destination.md",
+    "06_Playing the Game/Combat and Showdowns/Combat.md",
+    "11_Tournament Rules/Infractions Resume.md",
     "00_Resources/Riftbound_infractionsSummary.png",
     "07_Additional Rules/Bonus Damage.md",
-    "11_Tournament Rules/Infractions Resume.md",
     "11_Tournament Rules",
     "06_Playing the Game/Playing Cards/Splitting.md",
-    "07_Additional Rules/Mighty.md",
-    "07_Additional Rules/Buffs.md",
-    "06_Playing the Game/Conceding/Removal of a Player.md",
     "07_Additional Rules",
-    "06_Playing the Game/Conceding/Conceding.md",
     "06_Playing the Game/Conceding",
-    "06_Playing the Game/Modes of Play/2v2 (Magma Chamber).md",
-    "02_Setup/Non-Board Zones/Hand.md",
-    "06_Playing the Game/Game Actions/Discretionary Actions/Standard Move.md",
-    "04_Cards/05_Battlefields/Battlefield.md",
-    "06_Playing the Game/Modes of Play/FFA4 (War).md",
-    "06_Playing the Game/Modes of Play/Mode of Play.md",
-    "06_Playing the Game/Modes of Play/FFA3 (Skirmish).md",
-    "06_Playing the Game/Modes of Play/1v1 (Duel).md",
-    "06_Playing the Game/Modes of Play/1v1 (Match).md",
-    "06_Playing the Game/Modes of Play/Victory Score.md",
-    "06_Playing the Game/Layers/Dependency.md",
     "06_Playing the Game/Modes of Play",
-    "06_Playing the Game/Layers/Timestamp.md",
-    "06_Playing the Game/Layers/Layer.md",
-    "06_Playing the Game/Layers/Arithmetic.md",
-    "06_Playing the Game/Layers/Ability-Altering Effects.md",
-    "06_Playing the Game/Layers/Trait-Altering Effects.md",
-    "04_Cards/Rules Text/Keyword.md",
-    "06_Playing the Game/Layers/Copy.md",
     "06_Playing the Game/Layers",
     "06_Playing the Game/Scoring",
     "06_Playing the Game/Combat and Showdowns/Steps of Combat",
