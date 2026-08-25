@@ -24,7 +24,7 @@ These actions can only be taken when a player is instructed to do so as the exec
 - [[Disempower]]
 - [[Double]]
 - [[Draw]]
-- [[Empower]]
+- [[06_Playing the Game/Game Actions/Limited Actions/Empower]]
 - [[Exhaust]]
 - [[Heal]]
 - [[Kill]]

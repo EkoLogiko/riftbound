@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Mechanics/Control.md",
+                "file": "04_Cards/Rules Text/Keyword.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Control"
+              "title": "Keyword"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "05_Mechanics/Control.md",
+                "file": "04_Cards/Rules Text/Keyword.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -94,7 +94,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4438706132259227,
+                  "scale": 0.37372952928029163,
                   "close": true
                 }
               },
@@ -124,7 +124,7 @@
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": true,
-                "searchQuery": "En"
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Esplora file"
@@ -277,36 +277,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0812a8c8195e3be6",
+  "active": "29d0e247139e235e",
   "lastOpenFiles": [
-    "07_Additional Rules/Additional Turn.md",
-    "Entering the Board.md",
-    "06_Playing the Game/Turn/Turn Order.md",
-    "07_Additional Rules/XP.md",
-    "07_Additional Rules/Dependent Ability.md",
-    "07_Additional Rules/Dependent Keyword.md",
-    "07_Additional Rules/Inactive.md",
-    "07_Additional Rules/Active.md",
-    "Weaponmaster.md",
-    "Equip.md",
-    "Temporary.md",
-    "07_Additional Rules/Top-Most Card.md",
-    "02_Setup/Non-Board Zones/Non-Board Zone.md",
-    "02_Setup/Non-Board Zones/Hand.md",
-    "02_Setup/Non-Board Zones/Banishment.md",
-    "02_Setup/Non-Board Zones/Rune Deck Zone.md",
-    "02_Setup/Non-Board Zones/Main Deck Zone.md",
-    "07_Additional Rules/Attached.md",
-    "05_Mechanics/Control.md",
-    "03_Game Objects/Game Object.md",
-    "06_Playing the Game/Game Actions/Limited Actions/Attach.md",
-    "06_Playing the Game/Game Actions/Limited Actions/Movement/Destination.md",
-    "06_Playing the Game/Combat and Showdowns/Combat.md",
-    "11_Tournament Rules/Infractions Resume.md",
+    "Flow.md",
+    "04_Cards/Rules Text/Keyword.md",
+    "Empowered.md",
+    "Empower.md",
+    "Unique.md",
+    "Level.md",
+    "Hunt.md",
+    "Ambush.md",
+    "Repeat.md",
+    "Quick-Draw.md",
+    "Vision.md",
+    "Ganking.md",
+    "Assault.md",
+    "07_Additional Rules/Keywords/Action.md",
+    "07_Additional Rules/Keywords/Accelerate.md",
+    "07_Additional Rules/Keywords/Senza nome.md",
+    "06_Playing the Game/Abilities/Ability.md",
+    "07_Additional Rules/Ignoring Effects.md",
+    "07_Additional Rules/Keywords",
+    "07_Additional Rules/Naming Cards, Types, and Tags.md",
+    "07_Additional Rules/Untargetability.md",
+    "07_Additional Rules/Making New Choices.md",
+    "Trigger Effects.md",
+    "06_Playing the Game/Chains/FEPR Steps/Finalize.md",
+    "07_Additional Rules/Counters.md",
+    "04_Cards/Costs/Cost within Istructions.md",
+    "06_Playing the Game/Combat and Showdowns/Combat Cleanup.md",
     "00_Resources/Riftbound_infractionsSummary.png",
-    "07_Additional Rules/Bonus Damage.md",
     "11_Tournament Rules",
-    "06_Playing the Game/Playing Cards/Splitting.md",
     "07_Additional Rules",
     "06_Playing the Game/Conceding",
     "06_Playing the Game/Modes of Play",
@@ -315,7 +316,6 @@
     "06_Playing the Game/Combat and Showdowns/Steps of Combat",
     "06_Playing the Game/Game Actions/Limited Actions/Movement",
     "06_Playing the Game/Game Actions/Limited Actions",
-    "06_Playing the Game/Game Actions/Discretionary Actions",
     "00_Resources/Riftbound_PlayACard.drawio.png",
     "00_Resources/Riftbound_FEPR.drawio.png"
   ]

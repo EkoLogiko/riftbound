@@ -1,0 +1,12 @@
+Some [[Game Effect|Game Effects]] declare that a [[Game Object|Game Objects]] can’t be chosen by a certain set of [[Spell|spells]] and [[Ability|abilities]]. Those effects designate the Game Object as **Untargetable**.
+
+These [[Passive Ability|Passive Abilities]] will usually take the form **“[Game Object] can’t be chosen by [Category] spells and abilities.”**
+
+**Untargetable** [[Game Object|Game Objects]] are not legal [[Target|targets]] for the indicated [[Spell|spells]] and [[Ability|abilities]].
+
+If a [[Game Object]] becomes **untargetable** for a [[Spell|spell]] or [[Ability|ability]] after becoming its [[Target|target]] and before it resolves, the spell or ability will [[Mistargeting|mistarget]] on resolution. Any instructions related to that Game Object will be [[Ignoring Effects|ignored]] as the spell resolves.
+
+If the [[Spell|spell]] or [[Ability|ability]] changes for any reason such that it will no longer fall under the category of spells or abilities for which a [[Game Object]] is **untargetable**, the [[Game Object]] will become a legal [[Target|target]] for that spell or ability. This will also occur if the Game Object is no longer among the set of objects that are made **untargetable** by a [[Game Effect]].
+
+>*Example*: A 1 [M] unit reads **“I can’t be chosen by enemy spells or abilities with Energy cost less than my Might.”** That unit is targeted by an enemy Falling Star; in reaction to the Falling Star, the unit’s controller plays Discipline targeting that unit, bringing its Might to 3 [M]. If Falling Star resolved at that point, the unit would be unaffected by it as it resolves. Falling Star’s controller plays Eclipse before Falling Star resolves, bringing the unit’s Might to -1 [M]. When Falling Star resolves now, the unit is affected by the spell and has 6 damage marked. It dies in the following cleanup.
+>*Example*: Alpha Wildclaw and Vilemaw are controlled by the same player and located at a battlefield. An opponent targets Vilemaw with Rebuke. Before Rebuke resolves, Vilemaw’s controller plays Discipline targeting Alpha Wildclaw, making Vilemaw no longer a legal target. Rebuke’s controller then targets Alpha Wildclaw with Star-Crossed. When Star-Crossed resolves, Alpha Wildclaw’s passive ability no longer applies to Vilemaw, making it a legal target for Rebuke. After all spells and abilities have resolved, both Vilemaw and Alpha Wildclaw will be returned to hand.

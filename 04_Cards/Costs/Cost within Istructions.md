@@ -1,5 +1,8 @@
 These [[Cost|costs]] are part of the resolution of a [[Spell]] or [[Ability]], and will take the form *“[do X] to [do Y]."*
 
+For [[Spell|Spells]], **costs within instructions** are paid on *resolution* of the spell. In order to get the effect, the cost must be paid.
+
+
 When **Costs within Instructions** appear as the first part of the effect in [[Triggered Ability|Triggered Abilities]], the cost is taken to be the base cost of the [[Triggered Ability]]. It must be paid to [[Finalize]] the triggered ability.
 
 >*Example:* Overzealous Fan is a unit that reads “When I defend, you may kill me to move an attacking unit to its base.” In order to finalize the ability to the chain, its controller must kill Overzealous Fan.
