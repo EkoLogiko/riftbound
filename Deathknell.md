@@ -1,1 +1,0 @@
-When a unit with a **Deathknell** or other [[Triggered Ability]] on its own death is to be put in the [[Trash]] due to a **Kill Instruction**, it first has any such ability added to the chain as a [[Pending Chain Item]]. Note the unit’s location, attributes, and other relevant information to process those abilities when finalized before completing this **[[Kill]] Instruction**.

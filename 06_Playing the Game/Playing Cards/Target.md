@@ -5,6 +5,7 @@ aliases:
   - targeted
   - Targets
   - targets
+  - targeting
 ---
 When a card **Chooses** one or more specific [[Game Object|Game Objects]] to affect, it is **Targeted** and becomes a **Target** unless indicated otherwise by the following rules.
 

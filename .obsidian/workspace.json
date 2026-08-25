@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Cards/Rules Text/Keyword.md",
+                "file": "07_Additional Rules/Keywords/Reaction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keyword"
+              "title": "Reaction"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04_Cards/Rules Text/Keyword.md",
+                "file": "07_Additional Rules/Keywords/Reaction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -94,7 +94,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.37372952928029163,
+                  "scale": 1.0298774796156671,
                   "close": true
                 }
               },
@@ -279,8 +279,17 @@
   },
   "active": "29d0e247139e235e",
   "lastOpenFiles": [
-    "Flow.md",
+    "07_Additional Rules/Keywords/Legion.md",
+    "07_Additional Rules/Keywords/Hidden.md",
+    "06_Playing the Game/Playing Cards/Target.md",
+    "07_Additional Rules/Keywords/Ganking.md",
+    "07_Additional Rules/Keywords/Deflect.md",
+    "07_Additional Rules/Keywords/Deathknell.md",
+    "Copy.md",
+    "07_Additional Rules/Keywords/Assault.md",
+    "04_Cards/01_Units/Might.md",
     "04_Cards/Rules Text/Keyword.md",
+    "Flow.md",
     "Empowered.md",
     "Empower.md",
     "Unique.md",
@@ -290,8 +299,6 @@
     "Repeat.md",
     "Quick-Draw.md",
     "Vision.md",
-    "Ganking.md",
-    "Assault.md",
     "07_Additional Rules/Keywords/Action.md",
     "07_Additional Rules/Keywords/Accelerate.md",
     "07_Additional Rules/Keywords/Senza nome.md",
@@ -299,13 +306,6 @@
     "07_Additional Rules/Ignoring Effects.md",
     "07_Additional Rules/Keywords",
     "07_Additional Rules/Naming Cards, Types, and Tags.md",
-    "07_Additional Rules/Untargetability.md",
-    "07_Additional Rules/Making New Choices.md",
-    "Trigger Effects.md",
-    "06_Playing the Game/Chains/FEPR Steps/Finalize.md",
-    "07_Additional Rules/Counters.md",
-    "04_Cards/Costs/Cost within Istructions.md",
-    "06_Playing the Game/Combat and Showdowns/Combat Cleanup.md",
     "00_Resources/Riftbound_infractionsSummary.png",
     "11_Tournament Rules",
     "07_Additional Rules",
