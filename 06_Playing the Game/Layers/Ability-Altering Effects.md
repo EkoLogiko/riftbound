@@ -1,4 +1,4 @@
-This [[Layer]] deals with non-[[Copy]] effects that grant, remove, or replace the [[Ability|abilities]] or [[Rules Text]] of [[Game Object|Game Objects]].
+This [[Layer]] deals with non-[[07_Additional Rules/Copy]] effects that grant, remove, or replace the [[Ability|abilities]] or [[Rules Text]] of [[Game Object|Game Objects]].
 - [[Keyword]]
 - [[Passive Ability|Passive Abilities]]
 - Appending [[Rules Text]]

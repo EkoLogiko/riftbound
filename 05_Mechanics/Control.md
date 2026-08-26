@@ -36,10 +36,9 @@ Control of a [[Battlefield]] determines Control of its [[Ability|Abilities]]:
 >*Example:* Abandoned Hall is a battlefield that reads “When a player plays a spell, they may give a unit they control here +1 might this turn.” The ability indicates that the player who played the spell makes the choice, so that player takes responsibility for putting the ability on the chain and makes all choices. They control the triggered ability.
 # Control of Everything Else
 When a player [[Playing a Card|Plays]], [[Hide|Hides]], or [[Create|Creates]] a Card or other [[Game Object|Game Objects]], they are established as that [[Game Object]]'s Controller.
-- [[Spells]]: they are the [[Spell]]'s Controller and they choose targets, modes and pay costs for it.
-- [[Permanent|Permanents]] and [[Rune|Runes]]: they become the [[Game Object]] controller when they enter [[The Board]]; they make decisions about the Game Object's [[Inherent Ability|Inherent Abilities]],  [[Unique Abilities|Unique Ability]]. any [[Game Effect|Game Effects]] or decisions necessary while the card is being played and the ones about any [[Game Effect|Game Effects]] created from "When you play me" effects of [[Permanent|Permanents]].
-- [[Ability|Abilities]]: they are the [[Ability]] controller; by default, the Controller of an [[Ability's Source]] is the Controller of the Ability. If an Ability’s Source is located in a [[Non-Board Zone]], the Ability’s Controller is the [[Ownership|Owner]] of the Source. That player chooses targets, mode and pays costs for the Ability.
-	- Changes to Control of an [[Ability’s Source]] do not change Control of that Ability.
-
+- [[Spell|Spells]]: they are the [[Spell]]'s Controller and they choose targets, modes and pay costs for it.
+- [[Permanent|Permanents]] and [[Rune|Runes]]: they become the [[Game Object]] controller when they enter [[The Board]]; they make decisions about the Game Object's Inherent Abilities, Unique Abilities, any [[Game Effect|Game Effects]] or decisions necessary while the card is being played and the ones about any [[Game Effect|Game Effects]] created from "When you play me" effects of [[Permanent|Permanents]].
+- [[Ability|Abilities]]: they are the [[Ability]] controller; by default, the Controller of an Ability's Source is the **Controller** of the [[Ability]]. If an Ability’s Source is located in a [[Non-Board Zone]], the Ability’s Controller is the [[Ownership|Owner]] of the Source. That player chooses targets, mode and pays costs for the Ability.
+	- Changes to Control of an Ability’s Source do not change **Control** of that Ability.
 
 When a game effect or rules text refers to the Controller of a specific object, it can be referring to either context interchangeably. The method of assignment of control is different, but the status of Control is the same across all [[Game Object|Game Objects]].

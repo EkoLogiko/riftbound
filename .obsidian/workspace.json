@@ -6,6 +6,7 @@
       {
         "id": "01df6c0689b63353",
         "type": "tabs",
+        "dimension": 50.07836990595611,
         "children": [
           {
             "id": "cfc2539db01e03e5",
@@ -50,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07_Additional Rules/Keywords/Reaction.md",
+                "file": "07_Additional Rules/Copy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reaction"
+              "title": "Copy"
             }
           }
         ],
@@ -64,6 +65,7 @@
       {
         "id": "0692f336b33cefe6",
         "type": "tabs",
+        "dimension": 49.92163009404389,
         "children": [
           {
             "id": "821ddfe6730db30d",
@@ -71,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "07_Additional Rules/Keywords/Reaction.md",
+                "file": "07_Additional Rules/Copy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -94,7 +96,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0298774796156671,
+                  "scale": 0.7345863357172995,
                   "close": true
                 }
               },
@@ -277,35 +279,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29d0e247139e235e",
+  "active": "0812a8c8195e3be6",
   "lastOpenFiles": [
+    "04_Cards/Power of this Card Domain.md",
+    "07_Additional Rules/Keywords/Flow.md",
+    "04_Cards/Energy.md",
+    "07_Additional Rules/Invite.md",
+    "07_Additional Rules/Keywords/Empowered.md",
+    "07_Additional Rules/Keywords/Empower.md",
+    "07_Additional Rules/Keywords/Backline.md",
+    "07_Additional Rules/Keywords/Tank.md",
+    "07_Additional Rules/Keywords/Unique.md",
+    "04_Cards/Categories/Main Deck Card.md",
+    "05_Mechanics/Control.md",
+    "Unique Abilities.md",
+    "Inherent Ability.md",
+    "07_Additional Rules/Keywords/Level.md",
     "07_Additional Rules/Keywords/Legion.md",
-    "07_Additional Rules/Keywords/Hidden.md",
-    "06_Playing the Game/Playing Cards/Target.md",
-    "07_Additional Rules/Keywords/Ganking.md",
-    "07_Additional Rules/Keywords/Deflect.md",
-    "07_Additional Rules/Keywords/Deathknell.md",
-    "Copy.md",
-    "07_Additional Rules/Keywords/Assault.md",
-    "04_Cards/01_Units/Might.md",
-    "04_Cards/Rules Text/Keyword.md",
-    "Flow.md",
-    "Empowered.md",
-    "Empower.md",
-    "Unique.md",
-    "Level.md",
-    "Hunt.md",
-    "Ambush.md",
-    "Repeat.md",
-    "Quick-Draw.md",
-    "Vision.md",
-    "07_Additional Rules/Keywords/Action.md",
-    "07_Additional Rules/Keywords/Accelerate.md",
-    "07_Additional Rules/Keywords/Senza nome.md",
-    "06_Playing the Game/Abilities/Ability.md",
-    "07_Additional Rules/Ignoring Effects.md",
+    "07_Additional Rules/Keywords/Hunt.md",
+    "07_Additional Rules/Keywords/Ambush.md",
+    "07_Additional Rules/Keywords/Weaponmaster.md",
+    "07_Additional Rules/Keywords/Repeat.md",
+    "06_Playing the Game/Playing Cards/Playing a Card.md",
+    "07_Additional Rules/Keywords/Quick-Draw.md",
+    "07_Additional Rules/Keywords/Equip.md",
+    "04_Cards/02_Gear/Equipment.md",
+    "07_Additional Rules/Keywords/Vision.md",
+    "07_Additional Rules/Keywords/Temporary.md",
+    "07_Additional Rules/Keywords/Shield.md",
     "07_Additional Rules/Keywords",
-    "07_Additional Rules/Naming Cards, Types, and Tags.md",
     "00_Resources/Riftbound_infractionsSummary.png",
     "11_Tournament Rules",
     "07_Additional Rules",

@@ -13,7 +13,7 @@ Assignment of [[Might]] is dealt with in this layer.
 
 >*Example*: A spell reads **"A unit's Might becomes 4 this turn."** The unit's Might is set to 4 in this layer.
 
-[[Copy]] effects are applied in this layer.
+[[07_Additional Rules/Copy]] effects are applied in this layer.
 
 Effects for this **layer** can be identified by the phrase *"become(s)"*, *"give,"* *"is,"* or *"are"* in the text.
 

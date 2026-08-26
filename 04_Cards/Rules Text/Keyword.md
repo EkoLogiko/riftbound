@@ -29,7 +29,7 @@ Similar to other [[Rules Text]], execute any effects of **Keywords** in the orde
 - [[Backline]]
 - [[Deathknell]]
 - [[Deflect]]
-- [[Empower]]
+- [[07_Additional Rules/Keywords/Empower]]
 - [[Empowered]]
 - [[Equip]]
 - [[Flow]]
