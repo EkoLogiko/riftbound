@@ -1,0 +1,6 @@
+---
+aliases:
+  - Appeals
+  - appeal
+  - appeals
+---

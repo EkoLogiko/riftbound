@@ -1,0 +1,3 @@
+- **Attendees** --> All competitors AND all competition officials are expected to be responsible for following the rules as written and in the spirit in which they were written. This includes respecting all people at competitions.
+- **Spectators** --> [[Spectator|Spectators]] have their own set of responsibilities and expectations.
+- **Penalties** --> Individuals who violate the frameworks and structures in this document are subject to [[Penalty|penalties]] at the appropriate [[Organized Play Level]] ([[Organized Play Level|OPL]]).

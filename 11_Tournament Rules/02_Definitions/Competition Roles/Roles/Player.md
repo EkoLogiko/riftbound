@@ -1,0 +1,6 @@
+---
+aliases:
+  - Players
+  - player
+  - players
+---

@@ -1,0 +1,6 @@
+---
+aliases:
+  - Penalties
+  - penalty
+  - penalties
+---

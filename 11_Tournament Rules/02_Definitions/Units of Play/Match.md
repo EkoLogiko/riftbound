@@ -1,0 +1,1 @@
+A Riftbound match is defined in the *Core Rules*.

@@ -1,0 +1,5 @@
+- **vs. Core Rules** --> In some cases, information in this document may contradict, or provide information not contained in, the *Riftbound Core Rules*. In all such cases, **this document takes precedence for competitions**.
+- **vs. Official Local Language Translations** --> The English language version of this document **will supersede any translation**.
+- **vs. Specific Event Addenda** --> In some cases, information in this document may be contradicted by alternate or additional policies or procedures in official addenda for specific competitions. In all such cases, **those addenda take precedence.**
+
+**Alteration:** *Riot Games* or its official *Riftbound* partners reserve the right to alter this document, or any subsequent competition-specific addenda, at any time without prior notice.
