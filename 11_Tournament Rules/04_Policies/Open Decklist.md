@@ -1,0 +1,3 @@
+In an **Open Decklist** competition, each round [[Player|players]] are provided with their opponent’s decklist to review at the start of the match and in between games of the match. [[Player|Players]] may not review decklists during gameplay.
+
+Typically, [[Professional OPL]] competitions should be run with **Open Decklist**, but it is ultimately up to the discretion of the [[Head Judge]] regardless of the event level.

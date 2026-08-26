@@ -14,7 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11_Tournament Rules/03_Eligibility/Eligibility.md",
+                "file": "11_Tournament Rules/04_Policies/Sideboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11_Tournament Rules/03_Eligibility/Eligibility.md",
+                "file": "11_Tournament Rules/04_Policies/Sideboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eligibility"
+              "title": "Sideboard"
             }
           }
         ],
@@ -73,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11_Tournament Rules/03_Eligibility/Eligibility.md",
+                "file": "11_Tournament Rules/04_Policies/Sideboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,11 +279,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0812a8c8195e3be6",
+  "active": "29d0e247139e235e",
   "lastOpenFiles": [
+    "11_Tournament Rules/02_Definitions/Units of Play/Game.md",
+    "11_Tournament Rules/04_Policies/Sideboard.md",
+    "11_Tournament Rules/02_Definitions/Tournament Modes/Competition Formats/Competition Format.md",
+    "Senza nome.md",
+    "11_Tournament Rules/04_Policies/Deck Registration.md",
+    "01_Deck Construction/Deck Building.md",
+    "11_Tournament Rules/04_Policies/Open Decklist.md",
+    "11_Tournament Rules/04_Policies/Deck Size.md",
+    "11_Tournament Rules/03_Eligibility/Eligibility.md",
     "11_Tournament Rules/04_Policies",
     "11_Tournament Rules/02_Definitions/Competition Roles/Official Role.md",
-    "11_Tournament Rules/03_Eligibility/Eligibility.md",
     "11_Tournament Rules/02_Definitions/Round Cycle.md",
     "11_Tournament Rules/03_Eligibility",
     "11_Tournament Rules/02_Definitions/Organized Play Level/OPLs/Professional OPL.md",
@@ -304,19 +312,11 @@
     "11_Tournament Rules/02_Definitions/Competition Roles/Roles",
     "11_Tournament Rules/02_Definitions/Organized Play Level/OPLs",
     "11_Tournament Rules/02_Definitions/Organized Play Level",
-    "11_Tournament Rules/02_Definitions/Competition Roles/Senza nome.md",
-    "Appeal.md",
-    "11_Tournament Rules/02_Definitions/Units of Play/Match.md",
     "11_Tournament Rules/02_Definitions/Competition Roles",
-    "11_Tournament Rules/02_Definitions/Units of Play/Game.md",
     "11_Tournament Rules/02_Definitions/Units of Play/Match",
-    "11_Tournament Rules/02_Definitions/Tournament Modes/Tournament Modes.md",
     "11_Tournament Rules/02_Definitions/Units of Play",
-    "11_Tournament Rules/02_Definitions/Tournament Modes/Round Structures/Playoff Round Structure.md",
-    "11_Tournament Rules/02_Definitions/Tournament Modes/Round Structures/Power Pairing Round Structure.md",
     "11_Tournament Rules/02_Definitions/Tournament Modes/Round Structures",
     "11_Tournament Rules/02_Definitions/Tournament Modes/Competition Formats",
-    "11_Tournament Rules/02_Definitions/Tournament Modes",
     "00_Resources/Riftbound_infractionsSummary.png",
     "00_Resources/Riftbound_PlayACard.drawio.png",
     "00_Resources/Riftbound_FEPR.drawio.png"
