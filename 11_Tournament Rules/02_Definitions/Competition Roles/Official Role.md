@@ -1,3 +1,8 @@
+---
+aliases:
+  - official
+  - officials
+---
 # List of Official Roles
 - [[Competition Organizer]]
 - [[Head Judge]]

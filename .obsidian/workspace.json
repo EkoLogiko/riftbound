@@ -14,7 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11_Tournament Rules/02_Definitions/Competition Roles/Roles/Floor Judge.md",
+                "file": "11_Tournament Rules/02_Definitions/Round Cycle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11_Tournament Rules/02_Definitions/Competition Roles/Roles/Floor Judge.md",
+                "file": "11_Tournament Rules/02_Definitions/Round Cycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Floor Judge"
+              "title": "Round Cycle"
             }
           }
         ],
@@ -73,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11_Tournament Rules/02_Definitions/Competition Roles/Roles/Floor Judge.md",
+                "file": "11_Tournament Rules/02_Definitions/Round Cycle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Control",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -279,27 +279,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29d0e247139e235e",
+  "active": "0812a8c8195e3be6",
   "lastOpenFiles": [
-    "11_Tournament Rules/02_Definitions/Competition Roles/Roles/Spectator.md",
-    "11_Tournament Rules/02_Definitions/Organized Play Level/Low OPL.md",
-    "11_Tournament Rules/02_Definitions/Organized Play Level/High OPL.md",
-    "11_Tournament Rules/02_Definitions/Competition Roles/Roles/Floor Judge.md",
-    "11_Tournament Rules/02_Definitions/Competition Roles/Judge Role.md",
-    "11_Tournament Rules/02_Definitions/Competition Roles/Official Role.md",
-    "11_Tournament Rules/02_Definitions/Competition Roles/Roles",
-    "11_Tournament Rules/02_Definitions/Organized Play Level/OPLs",
+    "11_Tournament Rules/03_Eligibility",
     "11_Tournament Rules/02_Definitions/Organized Play Level/OPLs/Professional OPL.md",
+    "11_Tournament Rules/02_Definitions/Round Cycle.md",
     "11_Tournament Rules/02_Definitions/Organized Play Level/OPLs/Competitive OPL.md",
     "11_Tournament Rules/02_Definitions/Organized Play Level/OPLs/Casual OPL.md",
-    "11_Tournament Rules/02_Definitions/Organized Play Level",
-    "11_Tournament Rules/02_Definitions/Competition Roles/Roles/Player.md",
-    "11_Tournament Rules/02_Definitions/Competition Roles/Senza nome.md",
-    "11_Tournament Rules/02_Definitions/Competition Roles/Roles/Head Judge.md",
+    "11_Tournament Rules/02_Definitions/Competition Roles/Judge Role.md",
+    "11_Tournament Rules/02_Definitions/Organized Play Level/Organized Play Level.md",
+    "11_Tournament Rules/02_Definitions/Competition Roles/Roles/Spectator.md",
     "11_Tournament Rules/02_Definitions/Competition Roles/Roles/Scorekeeper.md",
+    "11_Tournament Rules/02_Definitions/Competition Roles/Roles/Player.md",
     "11_Tournament Rules/02_Definitions/Competition Roles/Roles/Competition Organizer.md",
-    "Appeal.md",
+    "11_Tournament Rules/02_Definitions/Competition Roles/Roles/Head Judge.md",
+    "11_Tournament Rules/02_Definitions/Competition Roles/Roles/Floor Judge.md",
     "11_Tournament Rules/02_Definitions/Competition Roles/Competition Role.md",
+    "Penalty.md",
+    "11_Tournament Rules/02_Definitions/Competition Roles/Official Role.md",
+    "11_Tournament Rules/02_Definitions/Organized Play Level/Low OPL.md",
+    "11_Tournament Rules/02_Definitions/Organized Play Level/High OPL.md",
+    "11_Tournament Rules/02_Definitions/Competition Roles/Roles",
+    "11_Tournament Rules/02_Definitions/Organized Play Level/OPLs",
+    "11_Tournament Rules/02_Definitions/Organized Play Level",
+    "11_Tournament Rules/02_Definitions/Competition Roles/Senza nome.md",
+    "Appeal.md",
     "11_Tournament Rules/02_Definitions/Units of Play/Match.md",
     "11_Tournament Rules/02_Definitions/Competition Roles",
     "11_Tournament Rules/02_Definitions/Units of Play/Game.md",
@@ -309,13 +313,9 @@
     "11_Tournament Rules/02_Definitions/Tournament Modes/Round Structures/Playoff Round Structure.md",
     "11_Tournament Rules/02_Definitions/Tournament Modes/Round Structures/Power Pairing Round Structure.md",
     "11_Tournament Rules/02_Definitions/Tournament Modes/Round Structures/Swiss Round Structure.md",
-    "11_Tournament Rules/02_Definitions/Tournament Modes/Competition Formats/Constructed Format.md",
     "11_Tournament Rules/02_Definitions/Tournament Modes/Round Structures",
-    "11_Tournament Rules/02_Definitions/Tournament Modes/Competition Formats/Limited Format.md",
-    "11_Tournament Rules/02_Definitions/Competition Types/Local Competition.md",
     "11_Tournament Rules/02_Definitions/Tournament Modes/Competition Formats",
     "11_Tournament Rules/02_Definitions/Tournament Modes",
-    "11_Tournament Rules/02_Definitions/Competition Types.md",
     "11_Tournament Rules/02_Definitions/Competition Types",
     "00_Resources/Riftbound_infractionsSummary.png",
     "00_Resources/Riftbound_PlayACard.drawio.png",

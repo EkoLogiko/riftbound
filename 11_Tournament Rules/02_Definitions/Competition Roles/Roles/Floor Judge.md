@@ -1,9 +1,7 @@
 ---
 aliases:
   - FJ
-  - Judge
   - Floor Judges
-  - Judges
 ---
 **Floor Judge** is an [[Official Role]] and a [[Judge Role]].
 
