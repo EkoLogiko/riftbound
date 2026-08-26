@@ -14,7 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11_Tournament Rules/02_Definitions/Round Cycle.md",
+                "file": "11_Tournament Rules/03_Eligibility/Eligibility.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11_Tournament Rules/02_Definitions/Round Cycle.md",
+                "file": "11_Tournament Rules/03_Eligibility/Eligibility.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Round Cycle"
+              "title": "Eligibility"
             }
           }
         ],
@@ -73,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11_Tournament Rules/02_Definitions/Round Cycle.md",
+                "file": "11_Tournament Rules/03_Eligibility/Eligibility.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,11 +279,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0812a8c8195e3be6",
+  "active": "29d0e247139e235e",
   "lastOpenFiles": [
+    "11_Tournament Rules/02_Definitions/Competition Roles/Official Role.md",
+    "11_Tournament Rules/03_Eligibility/Eligibility.md",
+    "11_Tournament Rules/02_Definitions/Round Cycle.md",
     "11_Tournament Rules/03_Eligibility",
     "11_Tournament Rules/02_Definitions/Organized Play Level/OPLs/Professional OPL.md",
-    "11_Tournament Rules/02_Definitions/Round Cycle.md",
     "11_Tournament Rules/02_Definitions/Organized Play Level/OPLs/Competitive OPL.md",
     "11_Tournament Rules/02_Definitions/Organized Play Level/OPLs/Casual OPL.md",
     "11_Tournament Rules/02_Definitions/Competition Roles/Judge Role.md",
@@ -296,7 +298,6 @@
     "11_Tournament Rules/02_Definitions/Competition Roles/Roles/Floor Judge.md",
     "11_Tournament Rules/02_Definitions/Competition Roles/Competition Role.md",
     "Penalty.md",
-    "11_Tournament Rules/02_Definitions/Competition Roles/Official Role.md",
     "11_Tournament Rules/02_Definitions/Organized Play Level/Low OPL.md",
     "11_Tournament Rules/02_Definitions/Organized Play Level/High OPL.md",
     "11_Tournament Rules/02_Definitions/Competition Roles/Roles",
@@ -316,7 +317,6 @@
     "11_Tournament Rules/02_Definitions/Tournament Modes/Round Structures",
     "11_Tournament Rules/02_Definitions/Tournament Modes/Competition Formats",
     "11_Tournament Rules/02_Definitions/Tournament Modes",
-    "11_Tournament Rules/02_Definitions/Competition Types",
     "00_Resources/Riftbound_infractionsSummary.png",
     "00_Resources/Riftbound_PlayACard.drawio.png",
     "00_Resources/Riftbound_FEPR.drawio.png"
