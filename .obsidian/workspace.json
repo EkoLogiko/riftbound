@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11_Tournament Rules/04_Policies/Sideboard.md",
+                "file": "11_Tournament Rules/04_Policies/Judge Calls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sideboard"
+              "title": "Judge Calls"
             }
           }
         ],
@@ -73,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11_Tournament Rules/04_Policies/Sideboard.md",
+                "file": "11_Tournament Rules/04_Policies/Judge Calls.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -96,7 +96,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7345863357172995,
+                  "scale": 0.734586335717298,
                   "close": true
                 }
               },
@@ -281,13 +281,24 @@
   },
   "active": "29d0e247139e235e",
   "lastOpenFiles": [
-    "11_Tournament Rules/02_Definitions/Units of Play/Game.md",
+    "11_Tournament Rules/04_Policies/Deck Checks.md",
+    "11_Tournament Rules/04_Policies/Judge Calls.md",
+    "11_Tournament Rules/04_Policies/Concessions and Intentional Draws.md",
+    "Bribery.md",
+    "11_Tournament Rules/04_Policies/Tiebreakers.md",
+    "11_Tournament Rules/04_Policies/End of Match Procedure.md",
+    "11_Tournament Rules/04_Policies/Play First Rule.md",
+    "11_Tournament Rules/04_Policies/Start of Game Procedure.md",
     "11_Tournament Rules/04_Policies/Sideboard.md",
+    "11_Tournament Rules/04_Policies/Start of Match Procedure.md",
+    "11_Tournament Rules/04_Policies/Deck Registration.md",
+    "11_Tournament Rules/04_Policies/Open Decklist.md",
+    "11_Tournament Rules/04_Policies/Shuffling.md",
+    "11_Tournament Rules/02_Definitions/Units of Play/Match.md",
+    "11_Tournament Rules/02_Definitions/Units of Play/Game.md",
     "11_Tournament Rules/02_Definitions/Tournament Modes/Competition Formats/Competition Format.md",
     "Senza nome.md",
-    "11_Tournament Rules/04_Policies/Deck Registration.md",
     "01_Deck Construction/Deck Building.md",
-    "11_Tournament Rules/04_Policies/Open Decklist.md",
     "11_Tournament Rules/04_Policies/Deck Size.md",
     "11_Tournament Rules/03_Eligibility/Eligibility.md",
     "11_Tournament Rules/04_Policies",
@@ -298,17 +309,6 @@
     "11_Tournament Rules/02_Definitions/Organized Play Level/OPLs/Competitive OPL.md",
     "11_Tournament Rules/02_Definitions/Organized Play Level/OPLs/Casual OPL.md",
     "11_Tournament Rules/02_Definitions/Competition Roles/Judge Role.md",
-    "11_Tournament Rules/02_Definitions/Organized Play Level/Organized Play Level.md",
-    "11_Tournament Rules/02_Definitions/Competition Roles/Roles/Spectator.md",
-    "11_Tournament Rules/02_Definitions/Competition Roles/Roles/Scorekeeper.md",
-    "11_Tournament Rules/02_Definitions/Competition Roles/Roles/Player.md",
-    "11_Tournament Rules/02_Definitions/Competition Roles/Roles/Competition Organizer.md",
-    "11_Tournament Rules/02_Definitions/Competition Roles/Roles/Head Judge.md",
-    "11_Tournament Rules/02_Definitions/Competition Roles/Roles/Floor Judge.md",
-    "11_Tournament Rules/02_Definitions/Competition Roles/Competition Role.md",
-    "Penalty.md",
-    "11_Tournament Rules/02_Definitions/Organized Play Level/Low OPL.md",
-    "11_Tournament Rules/02_Definitions/Organized Play Level/High OPL.md",
     "11_Tournament Rules/02_Definitions/Competition Roles/Roles",
     "11_Tournament Rules/02_Definitions/Organized Play Level/OPLs",
     "11_Tournament Rules/02_Definitions/Organized Play Level",

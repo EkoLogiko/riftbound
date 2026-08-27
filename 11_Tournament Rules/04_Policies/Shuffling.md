@@ -1,0 +1,6 @@
+---
+aliases:
+  - shuffling
+  - Shuffle
+  - shuffle
+---

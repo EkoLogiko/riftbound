@@ -1,3 +1,10 @@
+---
+aliases:
+  - sideboard
+  - Sideboards
+  - sideboards
+  - sideboarding
+---
 In certain competitions, [[Player|players]] may have a group of additional cards (outside of their starting configuration) called a **Sideboard**.
 
 **Sideboard** size and contents are dictated by the [[Competition Format]].
