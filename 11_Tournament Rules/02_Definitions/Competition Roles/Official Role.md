@@ -4,6 +4,8 @@ aliases:
   - officials
   - Competition Official
   - Competition Officials
+  - Tournament Official
+  - Tournament Officials
 ---
 # List of Official Roles
 - [[Competition Organizer]]

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Rune Pools
+---
 The **Rune Pool** is a conceptual collection of a player's available [[Energy]] and [[Power]] available to pay [[Cost]]s.
 When a card [[Add|adds]] Energy or Power, it is added to the controlling player's Rune Pool. Players must add Energy and Power to their Rune Pool in order to be able to spend it to [[Playing a Card|play cards]] or pay for [[Ability]] with costs.
 All Abilities that include the action "[[Add]]" are abilities that are adding Energy or Power to the Rune Pool.
