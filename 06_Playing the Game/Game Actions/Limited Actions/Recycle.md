@@ -2,6 +2,7 @@
 aliases:
   - Recycled
   - Recycles
+  - Recycling
 ---
 **Recycling** is a [[Limited Action]] in which a player takes one or more cards from a specific zone and then puts it on the bottom of the corresponding deck.
 - [[Main Deck Card]]s are Recycled to the [[Main Deck]].
