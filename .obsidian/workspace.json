@@ -51,16 +51,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11_Tournament Rules/05_Communication/Gameplay Decisions.md",
+                "file": "06_Playing the Game/Playing Cards/Handling Illegal or Impossible Instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gameplay Decisions"
+              "title": "Handling Illegal or Impossible Instructions"
+            }
+          },
+          {
+            "id": "77501d3136b3e40f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Setup/The Board/Facedown Zone.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Facedown Zone"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "0692f336b33cefe6",
@@ -73,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11_Tournament Rules/05_Communication/Gameplay Decisions.md",
+                "file": "02_Setup/The Board/Facedown Zone.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -96,7 +110,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.734586335717298,
+                  "scale": 0.7345863357172979,
                   "close": true
                 }
               },
@@ -138,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "NULL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +173,8 @@
               "title": "Segnalibri"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -279,35 +294,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29d0e247139e235e",
+  "active": "77501d3136b3e40f",
   "lastOpenFiles": [
-    "Angle Shooting.md",
+    "02_Setup/The Board/The Board.md",
+    "04_Cards/05_Battlefields/Battlefield.md",
+    "06_Playing the Game/Game Actions/Discretionary Actions/Hide.md",
+    "07_Additional Rules/Keywords/Hidden.md",
+    "06_Playing the Game/Playing Cards/Handling Illegal or Impossible Instructions.md",
+    "06_Playing the Game/Playing Cards/Referents.md",
+    "06_Playing the Game/Chains/FEPR Steps/Resolution.md",
+    "06_Playing the Game/Chains/FEPR.md",
+    "06_Playing the Game/Chains/Chain Item.md",
+    "06_Playing the Game/Playing Cards/Mistargeting.md",
+    "04_Cards/Costs/Cost within Istructions.md",
+    "04_Cards/03_Spells/Spell Resolution.md",
+    "06_Playing the Game/Playing Cards/Target.md",
+    "04_Cards/03_Spells/Spell.md",
+    "04_Cards/Rules Text/Complement.md",
+    "06_Playing the Game/Abilities/Triggered Ability.md",
+    "06_Playing the Game/Game Actions/Discretionary Actions/Play.md",
+    "06_Playing the Game/Game Actions/Limited Actions/Movement/Destination.md",
+    "06_Playing the Game/Modes of Play/2v2 (Magma Chamber).md",
+    "06_Playing the Game/Modes of Play/Team.md",
+    "06_Playing the Game/Playing Cards/Playing a Card.md",
+    "06_Playing the Game/Abilities/Playing or Activating Abilities.md",
+    "06_Playing the Game/Playing Cards/Check Legality.md",
+    "06_Playing the Game/Game Actions/Limited Actions/Movement/Move.md",
     "11_Tournament Rules/05_Communication/Gameplay Decisions.md",
-    "11_Tournament Rules/05_Communication/Layout.md",
-    "11_Tournament Rules/05_Communication/Teams in Separate Matches.md",
-    "11_Tournament Rules/05_Communication/Triggered Abilities (TR).md",
-    "Missed Trigger.md",
-    "11_Tournament Rules/05_Communication/Loops.md",
-    "11_Tournament Rules/05_Communication/Shortcuts.md",
-    "Cheating.md",
-    "11_Tournament Rules/05_Communication/Sequencing.md",
-    "Communication Violation.md",
-    "11_Tournament Rules/05_Communication/Information.md",
-    "04_Cards/Privacy/Public Information.md",
-    "11_Tournament Rules/05_Communication/Derived Information.md",
-    "04_Cards/04_Runes/Rune Pool.md",
-    "11_Tournament Rules/05_Communication/Requirements.md",
-    "Slow Play.md",
-    "11_Tournament Rules/02_Definitions/Competition Roles/Official Role.md",
-    "11_Tournament Rules/04_Policies/Display.md",
+    "Angle Shooting.md",
     "11_Tournament Rules/05_Communication",
-    "11_Tournament Rules/04_Policies/Marked Cards.md",
-    "11_Tournament Rules/04_Policies/Sleeves.md",
-    "04_Cards/Privacy/Private Information.md",
-    "11_Tournament Rules/04_Policies/Shuffling.md",
-    "06_Playing the Game/Game Actions/Limited Actions/Recycle.md",
-    "Insufficient Randomization.md",
-    "11_Tournament Rules/04_Policies/Card Language.md",
     "11_Tournament Rules/04_Policies",
     "11_Tournament Rules/03_Eligibility",
     "11_Tournament Rules/02_Definitions/Competition Roles/Roles",
