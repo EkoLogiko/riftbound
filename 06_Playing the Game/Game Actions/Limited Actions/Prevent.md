@@ -18,7 +18,7 @@ Prevent **will always apply to the next damage** that would be dealt to a unit a
 
 Prevent actions are usually formatted as *“Prevent the next X [source] damage that would be dealt to a [unit] this turn.”* The X is referred to as the **Prevent Value**. X can be *“All,”* which specifies an infinite amount of damage.
 
-When damage is Prevented, it is replaced with an event where it deals that much damage reduced by the **Prevent Value** tracked on the [[Unit]] specifically. The damage being dealt as a result of Preventing can never be less than 0, but can be 0. This is equivalent to not dealing damage. Damage dealt to a Unit that has that all of that damage Prevented is not considered to have been dealt to it at all.
+When damage is Prevented, it is replaced with an event where the source of the damage deals that much damage reduced by the **Prevent Value** tracked on the [[Unit]] specifically. The damage being dealt as a result of Preventing can never be less than 0, but can be 0. This is equivalent to not dealing damage. Damage dealt to a Unit that has that all of that damage Prevented is not considered to have been dealt to it at all.
 
 When damage is dealt this way, reduce the **Prevent Value** being tracked on the Unit affected by the Prevent action by the prevented amount, then:
 - If the Prevent Value is 0 or less, then Prevent is no longer being tracked on the [[Unit]] in question, and the effect expires.

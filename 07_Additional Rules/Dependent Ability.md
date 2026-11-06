@@ -9,5 +9,6 @@ If an ability has multiple [[Dependent Keyword|Dependent Keywords]], **all of th
 
 The **Dependent Abilities** of [[Dependent Keyword|Dependent Keywords]] can be of any type:
 - [[Triggered Ability|Triggered Abilities]] of [[Dependent Keyword|Dependent Keywords]] must be [[Active]] for their trigger to be evaluated. If a [[Triggered Ability]] becomes [[Active]] at the same time as its trigger condition would be fulfilled, it triggers.
+- If the condition for the Dependent Keyword causes the [[Triggered Ability]] to become [[Inactive]] after it has been added to [[The Chain]] as a [[Pending Chain Item|Pending Item]], that chain item will not be affected and will proceed with being played as normal.
 - [[Passive Ability|Passive Abilities]] begin applying at the same time the [[Dependent Keyword]] becomes true.
 - [[Activated Abilities]] that become [[Active]] from [[Dependent Keyword|Dependent Keywords]] can be activated at their associated timing after that ability has been granted. If the condition for the [[Dependent Keyword]] causes the [[Activated Abilities|Activated Ability]] to become [[Inactive]] after it has been added to [[The Chain]] as a [[Pending Chain Item]], that [[Chain Item]] will not be affected and will proceed with being [[Playing or Activating Abilities|played]] as normal.

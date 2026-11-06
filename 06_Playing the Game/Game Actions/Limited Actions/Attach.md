@@ -20,6 +20,10 @@ Attaching a card to a new [[Top-Most Card]] will cause it to [[Detach]] from the
 
 Attaching a card to its current [[Top-Most Card]] will not have any effect.
 
+[[Unit|Units]] cannot be **Attached** to other cards.
+If a [[Unit]] would be **Attached**, nothing happens.
+If a non-Unit [[Game Object]] that is **attached** becomes a [[Unit]] through any means, it **detaches** as it becomes one.
+
 If a [[Game Effect]] instructs a player to Attach a card to its current [[Top-Most Card]], nothing additional happens.
 
 Attaching cards does not inherently choose or specify a [[Target]]. However, Game Effects that Attach cards may do so.

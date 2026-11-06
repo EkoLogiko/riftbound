@@ -33,5 +33,7 @@ Units have multiple intrinsic properties unique to them:
 - [[Might]]: The combat statistic of a Unit. Used to determine a Unit's contribution to [[Combat]], as well as when it is [[Kill]]ed by damaging effects.
 - Units can have [[Damage]] marked on them.
 - Units enter the Board [[Exhaust|Exhausted]]. This can be altered by [[Accelerate]] or similar game effects
+- Units cannot be [[Attached]] to other [[Permanent|Permanents]]. If this would happen, nothing happens instead.
+- If a non-Unit [[Game Object]] that is [[Attached]] becomes a Unit through any means, it [[Detach|detaches]] as it becomes a Unit.
 - Units have the inherent ability to perform [[Standard Move]]s.
 - Units have a [[Location]] which is the [[Base]] or [[Battlefield]] it currently occupies.

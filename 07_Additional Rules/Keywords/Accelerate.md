@@ -1,4 +1,4 @@
-**Accelerate** is a [[Keyword]] which represents an [[Unit]] [[Ability|ability]] and is functionally short for **"As you play me, you may pay [1] [C] as an [[Additional Cost]]. If you do, I enter [[Ready|ready]]."**
+**Accelerate** is an **Optional Additional** [[Keyword]] present on [[Unit|Units]] which is functionally short for **"As you play me, you may pay [1] [C] as an [[Additional Cost]]. If you do, I enter [[Ready|ready]]."**
 
 If the [[Unit|unit]] has one or more [[Domain|Domains]], the [[Power]] portion of the **Accelerate** [[Cost|cost]] can be paid only with a [[Power]] that matches one of the [[Domain|Domains]] of the [[Unit|unit]].
 If the [[Unit|unit]] has no [[Domain]], the [[Power]] portion of the **Accelerate** [[Cost|cost]] can be paid with [A] (a [[Power of Any Domain]]).

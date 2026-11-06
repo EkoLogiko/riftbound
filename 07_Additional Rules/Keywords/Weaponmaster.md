@@ -7,6 +7,13 @@
 **Weaponmaster** can choose an [[Equipment]] whether it has an [[Equip]] [[Ability|ability]] or not.
 
 The [[Cost|cost]] of the [[Equip]] ability is determined as though that [[Equip]] ability was being [[Playing or Activating Abilities|activated]] choosing the [[Unit]] with the **Weaponmaster** ability, as modulated by any abilities that alter [[Equip]] costs.
+The [[Equip]] ability is not actually activated when its cost is determined in
+this way. An effect that grants an activated ability a cost reduction when it
+is played will not apply to the [[Equip]] cost calculated during the resolution
+of a Weaponmaster trigger, because the Equip ability is not actually
+played. Effects that reduce the cost of [[Equip]] abilities without referring to those
+abilities being played, or the Equip ability being referenced in specific, will
+be included when calculating costs in this way.
 
 If the chosen card’s [[Equip]] [[Cost|cost]] does not contain [A], it can still be paid, but will not be reduced. If the chosen card doesn’t have an [[Equip]] [[Cost|cost]], it can’t be paid.
 

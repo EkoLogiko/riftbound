@@ -17,13 +17,13 @@
 - **First Turn Process:** The player going first does not draw a card during their first [[Draw Phase]] of the game. The player going last [[Channel|channels]] an extra [[Rune]] from their Rune Deck during their first Channel Phase of the game.
 # Unique Rules
 - Players may play spells or activate abilities during their Teammate's Turn. In order to do so, their Teammate will [[Invite]] them to play a spell or activate an ability using their own [[Priority]].
-- [[Battlefield|Battlefields]] controlled during the [[Beginning Phase]] of a player's turn by that player's teammate are disqualified from being scored by that Team, that turn. 
+- A [[Battlefield]] can only be [[Scoring|Scored]], via [[Conquer|Conquering]] or [[Hold|Holding]], once per team per turn. [[Battlefield|Battlefields]] controlled during the [[Scoring Step]] in the [[Beginning Phase]] of a player's turn by that player's teammate are disqualified from being scored by that Team, that turn.
 - [[Control]] is not shared. Players may not [[Hide]] cards at [[Battlefield]] controlled by their Teammate. Players may not issue [[Standard Move|Standard Movement]] to their Teammate's Units.
 - Points are shared by a team. Both players on a team have the same number of Victory Points. If a player gains or loses points, their team gains or loses those points. If a spell or ability references or checks a player gaining or losing points, that ability checks whether that player’s team gains or loses points.
 - **Friendly** describes controlled Game Objects by a player or their Teammate.
 - [[Hand|Hands]] are [[Private Information]]. Players may show their [[Private Information]] to one or more players at any time during play, including their teammate. [[Reveal|Revealing]] Cards is still a [[Game Action]] and cannot be done unless instructed.
 - The **Final Point** has an adjustment to the criteria when [[Scoring]].
-	- When scoring the Final Point from [[Conquer]], a player must [[Scoring|Score]] each [[Battlefield]] in the same turn, excepting any that were occupied by their ally during the [[Scoring Step]] of that turn’s [[Beginning Phase]].
+	- When scoring the Final Point from [[Conquer]] during their or a teammate's turn, a player must [[Scoring|Score]] each [[Battlefield]] in the same turn, excepting any that were occupied by their ally during the [[Scoring Step]] of that turn’s [[Beginning Phase]].
 	- No other changes to Final Point restrictions.
 - Teammates may not utilize the same [[Champion Legend]].
 - Teammates may not utilize the same [[Battlefield|Battlefields]].

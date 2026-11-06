@@ -20,4 +20,4 @@ To resolve a **dependency**, the effects within the same layer that created the 
 
 >*Example:* A unit with 4[M] is under the effects of a passive ability that reads **“Units you control here have their Might increased to 5 [M].”** Its controller plays Discipline on the unit. As previously established, the passive ability depends on the Discipline effect. We apply the Discipline effect first, giving the unit +2 [M], and then immediately apply the passive ability that depends on it. The unit’s final Might is 6 [M].
 
-If more than one effect applies in the same layer but no dependency is established, then [[Timestamp]] order is applied to the effects within that layer and sublayer
+If more than one effect applies to the same [[Game Object]] in the same layer but no dependency is established, then [[Timestamp]] order is applied to the effects within that layer and sublayer

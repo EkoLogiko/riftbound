@@ -58,8 +58,10 @@ Some Conditions are commonly used and structured in a way that explicitly define
 - [[Conquer Effects]]
 - [[Hold Effects]]
 - [[Attack Triggers]]
+- [[Defend Triggers]]
 
-Some effects may instruct a player to *“activate”* one of these named triggered abilities. To do so, that player checks the condition of all of the specified effects, as if they had fulfilled the named part of the [[Trigger Condition]].
+Some effects may instruct a player to *“activate”* one of these named triggered abilities. To do so, that player checks the condition of all of the specified effects, as if they had fulfilled the named part of the [[Trigger Condition]]. The named part of the condition is fulfilled, but no actual such event occurs.
 
 >*Example*: Reckoner’s Arena reads **“When you hold here, activate the conquer effects of units here.”** For each unit at the battlefield, you will check the trigger condition of their [[Conquer Effects]] to see if the condition has been fulfilled, treating the conquer portion of the condition as having been fulfilled. If all of the conditions are fulfilled for a conquer effect, it is placed on the chain as if it had just triggered. If any of the non-conquer parts of the condition are not fulfilled, it will not be placed on the chain.
 >*Example*: A spell reads **“Activate the play effects of your gear.”** For each gear you control, you will treat it as if you had just played the gear and check the other conditions of that gear. If all of the conditions are fulfilled for a play effect, it is placed on the chain as if it had just triggered.
+>*Example*: Red Brambleback is a unit that reads in part “Your conquer effects for conquering here trigger an additional time.” Reckoner’s Arena is a battlefield that reads “When you hold here, activate the conquer effects of units here.” The conquer effects that were activated in this way were not the result of a conquer occurring, so they will not trigger an additional time from Red Brambleback’s passive ability if it is located there.

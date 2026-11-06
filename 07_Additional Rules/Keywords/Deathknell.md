@@ -3,6 +3,8 @@
 It is formatted as **"[Deathknell] [>] [Effect]"**. [Effect] is the [[Rules Text]] for the specific instance of **Deathknell**. This is referred to as the *Deathknell effect*.
 
 It is functionally short for **"When I die, [Effect]."**
+- [Effect] is the rules text of the Deathknell effect.
+- [Effect] may be written in the past tense. In doing so, it refers to the moment the **Deathknell** trigger was added to [[The Chain]], not any previous moment.
 
 The [[Trigger Condition]] for this and similar effects that trigger on their source’s death is the [[Permanent]] being [[Kill|Killed]] and sent to the [[Trash]]. If the [[Permanent]] with the effect is not sent to the [[Trash]], for example because its "killed" event was replaced with a [[Recall]], the [[Triggered Ability]] will be removed from [[The Chain]].
 

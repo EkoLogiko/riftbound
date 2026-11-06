@@ -14,7 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11_Tournament Rules/04_Policies/Sideboard.md",
+                "file": "07_Additional Rules/Keywords/Show Off.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -46,35 +46,21 @@
             }
           },
           {
-            "id": "29d0e247139e235e",
+            "id": "ca5afcdd409afb81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Playing the Game/Playing Cards/Handling Illegal or Impossible Instructions.md",
+                "file": "07_Additional Rules/Keywords/Show Off.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Handling Illegal or Impossible Instructions"
-            }
-          },
-          {
-            "id": "77501d3136b3e40f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Setup/The Board/Facedown Zone.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Facedown Zone"
+              "title": "Show Off"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "0692f336b33cefe6",
@@ -87,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02_Setup/The Board/Facedown Zone.md",
+                "file": "07_Additional Rules/Keywords/Show Off.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -110,7 +96,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7345863357172979,
+                  "scale": 2.024281906344223,
                   "close": true
                 }
               },
@@ -152,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "NULL",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,8 +159,7 @@
               "title": "Segnalibri"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -294,34 +279,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77501d3136b3e40f",
+  "active": "ca5afcdd409afb81",
   "lastOpenFiles": [
-    "02_Setup/The Board/The Board.md",
-    "04_Cards/05_Battlefields/Battlefield.md",
-    "06_Playing the Game/Game Actions/Discretionary Actions/Hide.md",
+    "04_Cards/Rules Text/Keyword.md",
+    "07_Additional Rules/Keywords/Disarm.md",
+    "07_Additional Rules/Keywords/Show Off.md",
+    "07_Additional Rules/Keywords/Empower.md",
+    "07_Additional Rules/Keywords/Empowered.md",
+    "07_Additional Rules/Keywords/Deploy.md",
+    "07_Additional Rules/Keywords/Weaponmaster.md",
     "07_Additional Rules/Keywords/Hidden.md",
-    "06_Playing the Game/Playing Cards/Handling Illegal or Impossible Instructions.md",
-    "06_Playing the Game/Playing Cards/Referents.md",
-    "06_Playing the Game/Chains/FEPR Steps/Resolution.md",
-    "06_Playing the Game/Chains/FEPR.md",
-    "06_Playing the Game/Chains/Chain Item.md",
-    "06_Playing the Game/Playing Cards/Mistargeting.md",
-    "04_Cards/Costs/Cost within Istructions.md",
-    "04_Cards/03_Spells/Spell Resolution.md",
-    "06_Playing the Game/Playing Cards/Target.md",
-    "04_Cards/03_Spells/Spell.md",
-    "04_Cards/Rules Text/Complement.md",
-    "06_Playing the Game/Abilities/Triggered Ability.md",
-    "06_Playing the Game/Game Actions/Discretionary Actions/Play.md",
-    "06_Playing the Game/Game Actions/Limited Actions/Movement/Destination.md",
+    "07_Additional Rules/Keywords/Deathknell.md",
+    "07_Additional Rules/Keywords/Accelerate.md",
+    "07_Additional Rules/Making New Choices.md",
+    "07_Additional Rules/Counters.md",
+    "05_Mechanics/Control.md",
+    "07_Additional Rules/Dependent Ability.md",
+    "07_Additional Rules/Dependent Keyword.md",
+    "07_Additional Rules/Attached.md",
     "06_Playing the Game/Modes of Play/2v2 (Magma Chamber).md",
-    "06_Playing the Game/Modes of Play/Team.md",
-    "06_Playing the Game/Playing Cards/Playing a Card.md",
-    "06_Playing the Game/Abilities/Playing or Activating Abilities.md",
-    "06_Playing the Game/Playing Cards/Check Legality.md",
-    "06_Playing the Game/Game Actions/Limited Actions/Movement/Move.md",
-    "11_Tournament Rules/05_Communication/Gameplay Decisions.md",
-    "Angle Shooting.md",
+    "06_Playing the Game/Layers/Dependency.md",
+    "06_Playing the Game/Layers/Arithmetic Effects.md",
+    "06_Playing the Game/Layers/Ability-Altering Effects.md",
+    "06_Playing the Game/Layers/Trait-Altering Effects.md",
+    "06_Playing the Game/Layers/Copy Effects.md",
+    "06_Playing the Game/Layers/Layer.md",
+    "Senza nome.md",
+    "06_Playing the Game/Scoring/Scoring.md",
+    "Gaining Points.md",
+    "00_Resources/Riftbound_PlayACard.drawio.png",
     "11_Tournament Rules/05_Communication",
     "11_Tournament Rules/04_Policies",
     "11_Tournament Rules/03_Eligibility",
@@ -333,7 +319,6 @@
     "11_Tournament Rules/02_Definitions/Units of Play",
     "11_Tournament Rules/02_Definitions/Tournament Modes/Round Structures",
     "00_Resources/Riftbound_infractionsSummary.png",
-    "00_Resources/Riftbound_PlayACard.drawio.png",
     "00_Resources/Riftbound_FEPR.drawio.png"
   ]
 }

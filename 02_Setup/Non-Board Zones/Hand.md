@@ -2,7 +2,8 @@
 aliases:
   - Hands
 ---
-Each player has their own Hand. This is the location cards go when [[Draw]]n.
+Each player has their own Hand.
+This is the [[Zone]] cards go when [[Draw|Drawn]].
 The cards in a player’s hand are *unordered*. Their sequence does not matter and they may be reorganized.
 
 The hand can be targeted as a zone, and cards there can be affected by spells and effects when specified.

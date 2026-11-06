@@ -1,10 +1,11 @@
-This [[Layer]] deals with non-[[07_Additional Rules/Copy]] effects that grant, remove, or replace the [[Ability|abilities]] or [[Rules Text]] of [[Game Object|Game Objects]].
+This [[Layer]] deals with non-[[Copy Effects]] that grant, remove, or replace the [[Ability|abilities]] or [[Rules Text]] of [[Game Object|Game Objects]].
 - [[Keyword]]
 - [[Passive Ability|Passive Abilities]]
 - Appending [[Rules Text]]
 - Removing [[Rules Text]]
+- [[Effect Text]]
 
-This is the second [[Layer]] to be evaluated when evaluating [[Layer|Layers]].
+This is the third [[Layer]] to be evaluated when evaluating [[Layer|Layers]].
 
 Abilities of [[Effect Text]] of [[Attached]] cards are appended in this layer.
 

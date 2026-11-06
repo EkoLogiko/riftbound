@@ -1,1 +1,1 @@
-*"At the end of the turn"* [[Game Effect|Game Effects]] take place. Specific game effects and abilities will reference this timing and phase as necessary.
+*"At the end of this turn"* and *At the end of the turn* [[Game Effect|Game Effects]] take place. Specific game effects and abilities will reference this timing and phase as necessary.

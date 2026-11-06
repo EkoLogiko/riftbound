@@ -1,0 +1,1 @@
+Card text will refer to the process of **Gaining Points** in the following way: *"Score X points"*. The "score" in this text does not refer to the process of [[Scoring]].

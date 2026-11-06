@@ -3,6 +3,7 @@ aliases:
   - Contested
 ---
 **Contested** is a temporary status applied to the [[Battlefield]] when a [[Unit]] controlled by a Player who does not currently [[Control]] that Battlefield [[Move|Moves]] or otherwise becomes present there. Units moving to or being played to a battlefield apply Contested status if that battlefield is not already Contested and that Unit’s controller does not already control that battlefield.
+A [[Unit]] changing controller while located at a [[Battlefield]] will also apply **Contested** status to that [[Battlefield]] if it isn't **Contested** and if the new controller doesn't control that [[Battlefield]].
 
 Once a [[Showdown]] or [[Combat]] begins at a [[Battlefield]], it remains Contested until [[Control]] is established or re-established. If a player who applied Contested status to a Battlefield controls no [[Unit|Units]] there and there is no ongoing Showdown or Combat at that Battlefield, then Contested status is removed in the following [[Cleanup]].
 

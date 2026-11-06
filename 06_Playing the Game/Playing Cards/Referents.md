@@ -1,7 +1,7 @@
 Some information used by [[Ability|abilities]] is referenced from the source of those abilities, or from one or more targets of a [[Spell|spell]] or [[Ability|ability]]. This can usually be recognized by the presence of words like *“here,”* *“my,”* or *“its.”*
-Information referenced in an instruction in this way will be checked on execution of the instruction.
+Information referenced in an instruction in this way will be checked on execution of the instruction, unless specified otherwise.
 
->*Example*: A player moves Yasuo, Remorseful to an occupied enemy battlefield and initiates combat there. In reaction to the Yasuo, Remorseful attack trigger, their opponent plays Fight or Flight from hidden targeting Yasuo, moving him back to base. When the attack trigger resolves, *“here”* is no longer the battlefield where combat is ongoing and the attack trigger mistargets.
+>*Example*: A player moves Yasuo, Remorseful to an occupied enemy battlefield and initiates combat there. In reaction to the Yasuo, Remorseful attack trigger, their opponent plays Fight or Flight from facedown targeting Yasuo, moving him back to base. When the attack trigger resolves, *“here”* is no longer the battlefield where combat is ongoing and the attack trigger mistargets.
 >*Example*: In reaction to a Yasuo, Remorseful attack trigger, an opponent plays Stupefy targeting Yasuo. When Yasuo’s attack trigger resolves, it will deal damage equal to his current Might of 5.
 
 When a referent checks information on execution of the instruction related to a [[Target]], and that target isn’t legal, that referent will return “null” and all instructions related to it will be ignored.

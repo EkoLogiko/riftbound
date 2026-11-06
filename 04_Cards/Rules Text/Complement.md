@@ -1,4 +1,4 @@
-The complement of a [[Game Action]] is made up of the players or [[Game Object]]s that perform that game action, that that game action is performed on, the condition under which it is performed, and the duration for its effect to last. Some game actions omit a complement entirely.
+The complement of a [[Game Action]] is made up of the players or [[Game Object|Game Objects]] that perform that game action, that that game action is performed on, the condition under which it is performed, and the duration for its effect to last. Some game actions omit a complement entirely.
 
 >*Example:* Void Seeker is made up of two instructions. The first is “deal 4 to a unit at a battlefield.” Here “deal 4” is the game action, while “a unit at a battlefield,” is its complement. The second instruction, “draw 1,” has no complement. 
 

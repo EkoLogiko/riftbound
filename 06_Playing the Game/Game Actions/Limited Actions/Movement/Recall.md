@@ -11,7 +11,7 @@ A **Recall** is when a [[Permanent]] is relocated from anywhere to its [[Base]] 
 - A **Recall** causes a [[Permanent]] to change locations.
 - A **Recall** cannot be prevented by actions and [[Game Effect|Game Effects]] that restrict or block [[Move|Movement]].
 
-[[Gear]] can be **Recalled**. When an un-attached non-[[Unit]] [[Gear]] is created or played at a [[Battlefield]], or is at a [[Battlefield]] for any other reason, it is **Recalled** to its controller's [[Base]] during the next [[Cleanup]].
+[[Gear]] can be **Recalled**. When an un-attached non-[[Unit]] [[Gear]] without [[Deploy]] is created or played at a [[Battlefield]], or is at a [[Battlefield]] for any other reason, it is **Recalled** to its controller's [[Base]] during the next [[Cleanup]].
 
 >*Example*: An Equipment is attached to a unit at a battlefield, so the Equipment is present at that battlefield. If the unit dies, the Equipment will be recalled during the next cleanup.
 

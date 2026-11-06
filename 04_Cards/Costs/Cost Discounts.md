@@ -2,7 +2,8 @@ Some [[Game Effect|Game Effects]] may **discount** the [[Total Cost]] of a card 
 
 Discounts may say that cards "cost [amount] less" or that one or more of their costs are "reduced by [amount]."
 
-Discounts that only apply to a component of the [[Cost]] will be applied when that component is added to the cost of the spell and before any other discounts. Those discounts may be applied in any order to that component.
+Discounts that only apply to a component of the [[Cost]] will be applied when that component is added to the cost of the spell and before any other discounts. Those discounts may be applied in any order and apply only to that component.
+Discounts that apply to a given component of a [[Spell]]'s cost cannot reduce that component to less than 0.
 
 >*Example*: Ezreal, Prodigy reads **“optional additional costs you pay cost [1] or [A] less.”** When playing a Frigid Touch and choosing to pay the additional cost in step 2, as soon as the additional cost is added to the cost of the spell, Ezreal, Prodigy’s discount is applied to it.
 
@@ -15,3 +16,6 @@ If a discount applies a minimum cost, that minimum applies only to that discount
 Discounts can reduce [[Additional Cost|Additional Costs]], including to 0. An optional additional cost was "paid" if the player made the decision to pay it. It doesn't matter how much the player actually paid.
 
 >*Example*: Clockwork Keeper is a unit that costs 2 Energy and 0 Power and says **"As you play me, you may pay [C] as an additional cost. If you do, draw 1."** A player controls a card that says "Units you play cost [A] less." That player plays Clockwork Keeper and chooses to pay the optional additional cost of [C]. They will draw a card, even though the optional additional cost was reduced to 0.
+
+If a discount applies a variable [[Cost]] reduction to the card, that value is checked now.
+>*Example*: Rhasa, the Sunderer reads “I cost [1] less for each card in your trash.” The value of this discount depends on the number of cards in the trash. That value is checked during this step when the discount is applied to Rhasa’s cost. If the number of cards in his controller’s trash changes at a later point in the finalization process, that will not affect the value checked during this step or the total cost calculated in this step.

@@ -8,7 +8,12 @@ aliases:
   - Paying
   - paying
 ---
-**Paying** a resource is a[[Limited Action]] consisting in removing that resource from your [[Rune Pool]]. Pay is an action that interacts with [[Energy]] and [[Power]]. Players may only [[Pay]] resources when directed to by [[Game Effect|Game Effects]].
+**Paying** a resource is a[[Limited Action]] consisting in removing that resource from your [[Rune Pool]]. Pay is an action that interacts with [[Energy]] and [[Power]].
+
+In order to qualify as a resource to be removed from the [[Rune Pool]], the resource must be [1] or greater, or [C] or [A] or greater.
+>*Example*: [0] is not a resource that can be removed from the Rune Pool. As a cost, it is paid without performing the pay game action. This cannot be declined.
+
+When a player is instructed to **Pay** a resource, that player may remove that resource from their [[Rune Pool]] if it exists there. If they choose not to, the instruction is negated.
 
 When a player is instructed to **Pay** a resource, that player may remove that resource from their [[Rune Pool]] if it exists there. If they choose not to, the instruction is ignored.
 

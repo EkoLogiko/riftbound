@@ -2,7 +2,6 @@
 aliases:
   - Tokens
 ---
-
 **Tokens** are [[Game Object|Game Objects]] created by [[Spell|spells]] and [[Ability|abilities]] during play. They can be represented by anything. Printed tokens are included in Riftbound booster packs, but they are not required to play a token.
 
 The effect that creates a token may specify the conditions or circumstances under which it enters the board. These stipulations may alter the usual steps for [[Playing a Card|playing a card]] if the token is played:
@@ -47,3 +46,4 @@ A token's [[Ownership|owner]] is the player who controlled the effect that creat
 - The Baron Pit battlefield token is a domainless battlefield token with “Units can move here from anywhere.”
 - A 1 [M] Tentacle token is a domainless unit token with 1 Might and the Bilgewater tag.
 - A 0 [M] Shadow Clone token is a domainless unit token with 0 Might and “When I attack, you may banish a unit from your trash. If you do, give me Assault 4 this turn.” See [[Assault]] for more information.
+- A Bomb [[Gear]] token is a domainless gear token with "[[Deploy]]" and "[[Deathknell]]> Deal 2 to an enemy unit here and kill al other Bombs you control here". 

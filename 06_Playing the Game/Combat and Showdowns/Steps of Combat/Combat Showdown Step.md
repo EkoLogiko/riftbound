@@ -5,7 +5,7 @@ The **Combat Showdown Step** is the first step of the [[Steps of Combat]]. It is
 - When the turn is in a [[Showdown State]] and [[Open State]] and a [[Combat]] is **Staged** at the [[Battlefield]] where the current [[Showdown]] is ongoing.
 
 The following [[Task|Tasks]] become [[Outstanding Task|Outstanding]], in the order described:
-1) "Start of combat" or "showdown" effects happen now.
+1) "Start of combat" effects happen now. If the **Combat** openend with a [[Combat Showdown]], start of [[Showdown]] effects happen simultaneously.
 2) Establish who is [[Attacker]] and who is [[Defender]].
 	- The attacker and defender gain the **Attacker** or **Defender** designation now, as appropriate.
 	- [[Unit|Units]] at the [[Contested Control|Contested]] [[Battlefield]] controlled by the [[Attacker]] or [[Defender]] gain the **Attacker** or **Defender** designation now, as appropriate.

@@ -22,7 +22,9 @@ The zone a Game Object is created to can be specified implicitly by the [[Game A
 >*Example*: **“Play a 1 [M] Recruit token”** specifies a zone where the token is Created to implicitly, by specifying the token is played and thus created on the chain.
 >*Example*: **“Create a 1 [M] Recruit token”** does not specify a zone, so the Recruit token will be created at any location on the board that it can be played to.
 
-A [[Game Effect]] that Creates a [[Game Object]] will specify the state and nature of the Game Object created. If the Game Object is a [[Token]], it will follow the normal rules for tokens.
+A [[Game Effect]] that Creates a [[Game Object]] will specify the state and nature of the Game Object created.
+If the Game Object is a [[Token]], it will follow the normal rules for tokens.
+If a Non-Token Game Object is **Created** from a finite set of choices made by a [[Linked Ability]] during [[Deck Building]], only one of those Game Objects may exist in play at a time. If a player would **Create** a Game Object that already exists on [[The Board]] or on [[The Chain]], that action is negated.
 
 Unless specified otherwise by the Game Effect that Creates a Game Object, any such Game Object is owned by the player who Created it. [[Control]] is established as usual for Game Objects of the appropriate type.
 - A Created [[Permanent]], [[Rune]], [[Champion Legend|Legend]], or [[Spell]] is controlled by its owner as it is Created.

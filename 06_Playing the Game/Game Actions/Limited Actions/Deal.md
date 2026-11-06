@@ -43,3 +43,6 @@ The controller of the source of a Deal action is responsible for that Deal actio
 Damage Dealt as a result of being assigned during [[Combat]] has the [[Unit|Units]] as its source. The Damage assigned, and subsequently Dealt, to attackers has the defenders as the source and vice versa.
 
 Deal actions can distribute Damage as part of combat actions or non-combat actions.
+
+Some **Deal** actions may be written as *“Deal X ... for each ...”* Such actions **Deal** one instance of [[Damage]].
+>*Example*: Riven, Shattered reads in part “When I attack, choose an enemy unit here. Deal 2 to it for each Equipment attached to me.” If Riven has three Equipment attached to her, she will deal one instance of 6 damage, not three instances of 2 damage.

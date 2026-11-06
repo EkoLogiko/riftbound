@@ -9,3 +9,5 @@ While in this state, the card’s printed [[Rules Text]] is [[Inactive]]; [[Abil
 A card may be Attached **only to a single [[Top-Most Card]]** at a time.
 
 Attached cards **may have different [[Control|Controllers]]** from their [[Top-Most Card]]. Changes in [[Control]] of the [[Top-Most Card]] **do not** impact [[Control]] of **Attached** cards and vice versa. An Attached card still appends the [[Ability|Abilities]] in its [[Effect Text]] to the [[Rules Text]] of the [[Top-Most Card]] and modulates the [[Top-Most Card]]’s [[Might]] by its [[Might Bonus]].
+
+Only non-[[Unit]] [[Game Object|Game Objects]] may be **Attached**. If a non-[[Unit]] [[Game Object]] that is **Attached** becomes a [[Unit]] through any means, it [[Detach|detaches]] as it becomes a [[Unit]].

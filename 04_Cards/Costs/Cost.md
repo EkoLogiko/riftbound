@@ -13,9 +13,8 @@ If the game action associated with a Cost is impossible for any reason such that
 An instruction that requires a player to pay resources or spend counters or XP that does not also have a linked Effect, is not a Cost.
 
 >*Example:* A card effect reads, “When I attack, you may pay [4][C]. If you do, kill a unit here.” Paying [4][C] in this way is not a cost of the ability, base or otherwise, but a game action being performed by a player. The later instruction checks whether the game action was performed, not whether a cost was paid—if paying [4][C] was replaced for any reason, the later linked instruction will not execute.
-
 # Determining Costs
-Effects that need to **determine a card’s cost** for any purpose always use its *printed or copied cost*, even if that cost is increased, decreased, or ignored as the card is played.
+Effects that need to **determine a card or token’s cost** for any purpose always use its *printed or (if a [[07_Additional Rules/Copy|Copy]] effect is applied) copied cost*, even if that cost is increased, decreased, or ignored as the card is played.
 
 >*Example:* Sky Splitter is a spell that costs [8] and says in part “This spell's Energy cost is reduced by the highest Might among units you control.” Lux, Illuminated is a unit that says “When you play a spell that costs 5 or more, give me +3 [M] this turn.” If a player who controls Lux plays Sky Splitter, Lux’s ability will trigger, regardless of how much was actually paid for Sky Splitter. 
 

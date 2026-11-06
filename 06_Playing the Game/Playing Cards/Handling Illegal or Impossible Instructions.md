@@ -1,9 +1,8 @@
-
 (Also see [[Mistargeting]])
 (Also see [[Linked Instructions]])
 (Also see [[Referents]])
 
-A [[Spell|spell]] or [[Ability|ability]] resolves even if some or all of its [[Target|targets]] are illegal. A target is illegal as the spell resolves if it no longer meets the targeting requirements of the spell, or if it has changed [[Zone]] to or from a [[Non-Board Zone]].
+A [[Spell|spell]] or [[Ability|ability]] resolves even if some or all of its [[Target|targets]] are illegal. A target is illegal as the spell resolves if it no longer meets the targeting requirements of the spell, or if it has changed [[Zone]] to or from a [[Non-Board Zone]]. This includes targeting restrictions that are apllied to the spell by game effects other than the spell's instruction themselves.
 
 >*Example*: An enemy unit at a battlefield is no longer a legal target if it is no longer an enemy, no longer a unit, or no longer at a battlefield. 
 >*Example*: A unit with 3 or less Might is no longer a legal target if it is no longer a unit or if its Might is greater than 3.
@@ -14,17 +13,20 @@ If a target ceases to meet the targeting requirements while the spell is on the 
 
 If a target changes [[Zone]] to or from a [[Non-Board Zone]] and then returns to its original zone, it is no longer a legal target, because it's not treated as the same object.
 
-If any of the spell's targets are no longer legal, those [[Game Object|Game Objects]], players, or zones are unaffected by the spell as it resolves. Any instructions related to an illegal target can’t be followed. Instructions that can't be followed, either because of illegal targets or other circumstances, are ignored.
-
+If any of the spell's targets are no longer legal, those [[Game Object|Game Objects]], players, or zones are unaffected by the spell as it resolves. Any instructions related to an illegal target can’t be followed.
 >*Example*: A player plays Void Seeker, a spell that says **"Deal 4 to a unit at a battlefield. Draw 1."** The unit's controller uses a [[Reaction]] to move the unit to their base. Since the unit is no longer a legal target, it is not dealt any damage. Void Seeker's controller still draws 1.
 >*Example*: A player plays Bellow’s Breath targeting a unit in combat that reads in part “I can’t be chosen by enemy spells and abilities unless I’m in combat.” In reaction, that unit’s controller plays Flash, moving the unit to their base. The unit is no longer in combat, so it is no longer a legal target for Bellow’s Breath. The unit will be unaffected by Bellow’s Breath as it resolves.
 >*Example*: A player plays Hidden Blade from the facedown zone at a battlefield, targeting an enemy unit. In reaction to Hidden Blade, their opponent plays Tideturner from facedown at another battlefield, choosing to swap locations with the unit Hidden Blade targeted. When Hidden Blade resolves, the chosen unit is no longer at the appropriate battlefield, so any instructions related to that unit are ignored.
->*Example*: A player plays Ride the Wind choosing to move their unit at Vilemaw’s Lair to base. Base is a legal move destination for Ride the Wind, but on resolution of Ride the Wind’s effect, the move instruction will be ignored because Vilemaw’s restriction makes the instruction impossible.
 
-Instructions that can be partially followed are followed as much as possible and ignored otherwise
->*Example*: A player plays a spell that says **"Discard 2, then draw 2."** If their hand is empty, the instruction to discard 2 will be ignored. They'll still draw 2. If they had 1 card in hand, they would discard it and draw 2.
+Instructions that can't be followed because of illegal targets or because they reference information that is unavailable are considered **Ignored**.
+Instructions that can't be followed for any other reason are **Negated**.
+>*Example*: A player plays Hidden Blade targeting a unit at a battlefield. In reaction to Hidden Blade, the unit’s controller plays Flash, moving it to base. Hidden Blade’s instruction “Kill a unit.” will be ignored on resolution of the tspell.
+>*Example*: A player plays Ride the Wind choosing to move their unit at Vilemaw’s Lair to base. Base is a legal move destination for Ride the Wind, but on resolution of Ride the Wind’s effect, the move instruction will be negated because Vilemaw’s restriction makes the instruction impossible.
 
-If the spell checks information about a target that is no longer legal or a card or permanent whose location, zone, or status has changed such that that information is no longer available, that check returns "null" and all calculations based on it are ignored.
+Instructions that can be partially followed are followed as much as possible and negated otherwise
+>*Example*: A player plays a spell that says **"Discard 2, then draw 2."** If their hand is empty, the instruction to discard 2 will be negated. They'll still draw 2. If they had 1 card in hand, they would discard it and draw 2.
+
+If the spell checks information about a target that is no longer legal or a card or permanent whose location, zone, or status has changed such that that information is no longer available, that check returns "null" and all instructions based on it are ignored.
 >*Example*: A unit that is no longer on the board is treated as having null Might, null cost, etc.
 >*Example*: A unit that is no longer on the board has no location, is neither exhausted nor readied, etc.
 >*Example*: Baited Hook says **"[1][C], [E]: Kill a friendly unit. Look at the top 5 cards of your Main Deck. You may banish a unit from among them that has Might up to 1 more than the killed unit and play it, ignoring its cost. Then recycle the rest."** While Baited Hook’s ability is on the chain, an opponent reacts with a spell that returns the friendly unit to its owner's hand. Because the friendly unit is no longer a legal target, it can't be killed and its Might is treated as null. Baited Hook’s controller looks at the top 5 cards of their Main Deck, but can’t choose any unit from among them.

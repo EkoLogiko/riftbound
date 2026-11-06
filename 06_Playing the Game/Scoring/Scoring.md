@@ -8,7 +8,9 @@ aliases:
   - Scored
   - scored
 ---
-**Scoring** is the act of a Player gaining a point through the process of seizing or maintaining [[Control]] over [[Battlefield|Battlefields]]. Every instance of **Scoring** is also an instance of **Gaining** points.
+**Scoring** is the act of a Player seizing or maintaining [[Control]] over [[Battlefield|Battlefields]] they have not **Scored** yet this turn. It is a different process from [[Gaining Points]]: it may result in a player [[Gaining Points]], but the two are not intrinsically linked.
+
+Card text will refer to the process of **Scoring** using the word *"score"* without referring to some number of points. 
 
 A player **Scores** in one of two ways:
 - [[Conquer]]
@@ -24,7 +26,7 @@ When a player **Scores**, two things occur:
 	- [[Hold]] abilities trigger at a [[Battlefield]] that was Held.
 	- These will only trigger when the [[Battlefield]] is Scored.
 
-When a [[Cleanup]] occurs and a player has accrued Points greater than or equal to the [[Victory Score]] for their [[Mode of Play]], and if they have more points than any opponent, they **Win the Game**.
+When a [[Cleanup]] occurs and a player has accrued Points greater than or equal to the [[Victory Score]] for their [[Mode of Play]], and if they have more points than every opponent, they **Win the Game**.
 # Final Point
 When a player tries to Gain a Point through a [[Conquer]], and their current Point Total is 1 point from the Victory Score of the [[Mode of Play]] or higher, the following occurs:
 - If the player has **Scored** every [[Battlefield]] this turn, that player Gains the **Final Point**. If the player has not Scored every [[Battlefield]] this turn, that player [[Draw|draws]] a card instead.

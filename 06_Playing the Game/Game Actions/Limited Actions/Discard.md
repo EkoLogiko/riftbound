@@ -16,7 +16,7 @@ When Discarding is listed as a [[Cost]], then the Action must be able to be comp
 
 >*Example*: A card has the ability *"Discard 2: Deal 2 damage to a unit at a battlefield."* To activate the ability, the card's controller must have at least 2 cards in hand and must be able to discard them.
 
-When Discarding is part of an effect, then a player must Discard as many cards as possible from their [[Hand]]. If instructed to discard more cards than they have in their hand, further discard instructions are ignored.
+When Discarding is part of an effect, then a player must Discard as many cards as possible from their [[Hand]]. If instructed to discard more cards than they have in their hand, further discard instructions are negated.
 
 >*Example*: Undercover Agent has the ability **"[Deathknell][>] Discard 2, then draw 2. (When I die, get the effect.)"** If Undercover Agent's controller has 2 or more cards in hand, they must discard 2. If they have 1 card in hand, they discard 1, and the rest of the discard instruction is ignored. If they have no cards in hand, the entire discard instruction is ignored. Regardless of how many cards they discard, they then draw 2.
 

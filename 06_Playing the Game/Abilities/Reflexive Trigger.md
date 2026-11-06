@@ -10,7 +10,10 @@ aliases:
 
 Reflexive Triggers will be preceded by their conditions, if any. If no [[Trigger Condition]] is present in the [[Ability]] then the Reflexive Trigger will always be added to [[The Chain]].
 
-f present, the [[Trigger Condition]] of a Reflexive Trigger will follow the same format as a [[Triggered Ability]].
+If present, the [[Trigger Condition]] of a Reflexive Trigger will follow the same format as a [[Triggered Ability]].
+
+If a **Reflexive Trigger** says *“you may”* or *“they may”* as the first part of its Effect, the controller of its source will choose whether or not to perform the **Reflexive Trigger** during [[Finalize|finalization]].
+>*Example*: Death From Below is a spell that reads in part “Then, if it had 3 might or less, do this: You may play this from your trash for [A].” The reflexive trigger is added to the chain when the spell is resolving, and then on finalization of the reflexive trigger its controller will decide if they want to perform the effect. If they don’t, it is removed from the chain.
 # Playing Reflexive Triggers
 Reflexive Triggers use [[The Chain]].
 A new ability is created and added to [[The Chain]] as a [[Pending Chain Item]].

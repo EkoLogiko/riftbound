@@ -4,7 +4,7 @@ This [[Layer]] deals with the mathematics of increasing and decreasing the numer
 - [[Cost]]
 - [[Power]]
 
-This is the third [[Layer]] to be evaluated when evaluating [[Layer|Layers]].
+This is the fourth and last [[Layer]] to be evaluated when evaluating [[Layer|Layers]].
 
 When an arithmetic effect from a source that is not a [[Passive Ability]] has a limitation that applies, it is limited at the time of its application, and is “remembered” at that limited level for the duration of its effect. This process is called **“snapshotting.”**
 
@@ -25,3 +25,6 @@ This layer applies arithmetic in the following way:
 2) Decreases
 	- Negative values, or decreases, to [[Might]] are applied last.
 	- If there is a restriction or limitation to this decrease and it isn’t from a passive ability, the limitation is **"snapshotted"** for the duration of the effect.
+
+Effects for this layer can be identified by the phrase *"give,” “swap,” "increase," "decrease," "cost ... less," "cost ... more," "-X,” or “+X,”* in the text.
+>*Example*: An effect says “I cost [1] less for each card you've played this turn, to a minimum of [1].” The cost is modified in this layer.

@@ -5,6 +5,8 @@ aliases:
   - draws
   - Drawing
   - drawing
+  - Drawn
+  - drawn
 ---
 **Drawing** is a [[Limited Action]] which takes a single card from a zone and adds it to the player's [[Hand]]. Unless specified otherwise, drawing takes cards from the top of the [[Main Deck]].
 

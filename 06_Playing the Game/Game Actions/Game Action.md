@@ -11,7 +11,7 @@ aliases:
 # Responsibility
 Game Actions may be the **responsibility** of up to one player. The player that performs the Game Action is responsible for it.
 
->*Example*: Cull the Weak is a spell that reads **“Each player kills one of their units.”** When the spell resolves, each player chooses a unit they control and kills that unit. They are responsible for the death of their own unit.
+>*Example*: Cull the Weak is a spell that reads **“Each player kills one of their units.”** When the spell resolves, each player picks a unit they control and kills that unit. They are responsible for the death of their own unit.
 
 In the case where a Game Action is performed by procedures of the game and not by any player, that Game Action is not the responsibility of any player.
 

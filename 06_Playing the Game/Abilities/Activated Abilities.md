@@ -14,10 +14,15 @@ They are recognized by the presence of a *":"* in the text of the card, preceded
 Card text will refer to activating Activated Abilities with the word *“use”* or *“play.”* If *“using”* or *“playing”* an Activated Ability is part of a [[Trigger Condition]], that condition is fulfilled when the Activated Ability resolves.
 If an Activated Ability has a condition on *“using”* or *“playing”* it, that condition must be true in order to activate the ability in question
 
-All Activated Abilities can only be activated on the [[Control|controlling]] Player's Turn and during an [[Open State]].
 Activated Abilities use [[The Chain]]:
 1) Declare activation of the [[Ability]]. The ability goes on [[The Chain]] but has no card to represent it, so players need to take note that it is now a [[Closed State]].
 2) Proceed with executing [[The Chain]] by following the steps of [[Playing a Card]]. treating the ability as any other card.
 
-The [[Control|controlling]] player chooses when and whether to activate an **Activated Ability**.
+The player who controls the source of the **Activated Ability** decides when and whether to activate the ability.
+If the source is uncontrolled, and it isn't a [[Battlefield]], the owner of their source decides when and whether to activate the ability.
+Some activated abilities specify that one or more players other than the controller or owner of their source can activate them. Those players decide when and whether to activate the ability.
 
+All Activated Abilities can only be activated on the appropriate Player's Turn and during an [[Open State]].
+- If the source of the ability is controlled by a player, that is the controller's [[Main Phase]] during an [[Open State]].
+- If the source of the ability is uncontrolled and it isn't a [[Battlefield]], that is the owner's [[Main Phase]] during an [[Open State]].
+- If the ability specifies that one or more players other than the controller or owner of the source can activate it, that is during the activating player's [[Main Phase]] during an [[Open State]].
